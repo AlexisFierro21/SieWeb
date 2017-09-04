@@ -1,0 +1,51 @@
+*{
+	margin: auto;
+}
+.navbar-ligth{
+	background-color: #002b7f !important;
+}
+.bg-light{
+background-color: #002b7f !important;
+
+}
+.navbar-brand{
+	color: white !important;
+}
+nav{
+	width: 100%;
+	margin: auto;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+
+}
+.container{
+	width: 90%;
+	margin: auto;
+	/*background-color: red;
+*/
+}
+header{
+	background: #ffffff;
+	width:100%;
+    position:absolute;
+    height: auto;
+}
+.logo{
+	width:160px;
+	height: 100%;
+}
+.colegio{
+	background-color: #002b7f !important;
+	margin: auto;
+}
+@media screen and (max-width: 599px) {
+	header{
+		width: 100%;
+		background-color: white;
+	}
+	.col-sm-8,.col-sm-3{
+		width: 50%;
+	}
+
+}
