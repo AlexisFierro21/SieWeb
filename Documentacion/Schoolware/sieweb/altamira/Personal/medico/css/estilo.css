@@ -1,0 +1,44 @@
+
+.tab-wrapper{
+ width:100%;/*Si lo vamos a usar en la sidebar, este es el mejor ancho. Si lo vas a usar aparte, puedes usar cualquier medida en "px" o "em"*/
+ margin:0 auto;/*Para centrarlo*/
+}
+.tab-wrapper *{margin:0; padding:0;}/*Eliminamos todos los márgenes incómodos*/ 
+.tab{
+ 	margin:10px auto;
+ 	display:table;/*Para centrar sin tener que fijar un ancho*/
+}
+.tab li{
+		 float:left;
+ 		list-style: none;
+ 		/*Fuente, color...*/
+ 		font-family:'Ubuntu', Trebuchet, Arial, Helvetica, sans-serif;
+ 		font-size:90%;
+ 		background: #ccc;
+ 		color:white;
+ 		border-radius:4px;
+ 		box-shadow:0 0 2px rgba(0,0,0,.4);
+ 		/*Esto fijará el tamaño del botón*/
+ 		padding:5px 7px;
+ 		/*Distancia entre ellos*/
+ 		margin:5px;
+	}
+.tab li:hover, .tab li.activo{
+								/*Al pasar el ratón por encima*/
+ 								background:#B3B3B3;
+							} 
+.tab li a,.tab li.activo a {
+							/*Estilo de los links*/
+ 							color:#2c2c2c;
+ 							text-decoration:none;
+							}
+.tabs-content{/*Donde irán los contenidos*/
+ margin:0 auto;
+ background:#eee;
+ border-radius:5px; 
+ padding:20px 10%;
+ box-shadow:0 0 3px rgba(0,0,0,.4);
+}
+ .pestana{/*El contenido propiamente dicho*/
+ background:#eee;
+}

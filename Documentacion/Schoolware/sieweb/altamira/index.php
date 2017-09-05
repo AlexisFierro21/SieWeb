@@ -1,0 +1,1 @@
+<body onLoad="Javascript: parent.location.href='login.php';"></body>

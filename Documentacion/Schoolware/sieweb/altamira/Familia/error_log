@@ -1,0 +1,3 @@
+[01-Jul-2017 11:38:17 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/Familia/pago.php on line 24
+[03-Jul-2017 16:36:03 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/Familia/pago.php on line 24
+[18-Aug-2017 14:22:26 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/Familia/pago.php on line 24

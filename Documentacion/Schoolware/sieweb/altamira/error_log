@@ -1,0 +1,569 @@
+[18-Jul-2016 20:54:50 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Jul-2016 20:54:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Jul-2016 11:17:23 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Jul-2016 11:17:23 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Jul-2016 11:17:25 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Jul-2016 11:17:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Jul-2016 10:58:13 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Jul-2016 10:58:13 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Jul-2016 10:58:19 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Jul-2016 10:58:19 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Jul-2016 10:58:21 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Jul-2016 10:58:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Jul-2016 10:58:23 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Jul-2016 10:58:23 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Jul-2016 10:58:32 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Jul-2016 10:58:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Jul-2016 10:59:41 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Jul-2016 10:59:41 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Jul-2016 13:43:22 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Jul-2016 13:43:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Jul-2016 14:09:46 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Jul-2016 14:09:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Jul-2016 14:09:50 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Jul-2016 14:09:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Jul-2016 14:11:57 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Jul-2016 14:11:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Jul-2016 18:57:34 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Jul-2016 18:57:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Jul-2016 18:59:57 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Jul-2016 18:59:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Jul-2016 19:24:11 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Jul-2016 19:24:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[21-Jul-2016 18:55:57 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/tds.php on line 25
+[22-Jul-2016 12:11:17 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[22-Jul-2016 12:11:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[22-Jul-2016 12:12:10 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[22-Jul-2016 12:12:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[22-Jul-2016 12:12:53 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/tds.php on line 25
+[23-Jul-2016 15:11:05 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[23-Jul-2016 15:11:05 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[23-Jul-2016 15:11:08 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[23-Jul-2016 15:11:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[23-Jul-2016 15:12:31 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[23-Jul-2016 15:12:31 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[23-Jul-2016 15:12:32 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[23-Jul-2016 15:12:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[23-Jul-2016 19:51:26 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[23-Jul-2016 19:51:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[23-Jul-2016 19:51:27 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[23-Jul-2016 19:51:27 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[23-Jul-2016 23:30:38 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[23-Jul-2016 23:30:38 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[24-Jul-2016 13:48:38 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[24-Jul-2016 13:48:38 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[25-Jul-2016 11:10:52 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[25-Jul-2016 11:10:52 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[26-Jul-2016 00:26:50 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[26-Jul-2016 00:26:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[26-Jul-2016 15:39:14 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[26-Jul-2016 15:39:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 16:55:34 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 16:55:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 16:55:35 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 16:55:35 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 16:55:40 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 16:55:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 16:55:40 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 16:55:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 17:00:55 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 17:00:55 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 17:00:56 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 17:00:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 17:07:16 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 17:07:16 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 17:07:16 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 17:07:16 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 17:14:24 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 17:14:24 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 17:14:25 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 17:14:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 17:17:54 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 17:17:54 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 17:17:55 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 17:17:55 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 17:32:34 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 17:32:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 17:32:35 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 17:32:35 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[27-Jul-2016 20:53:00 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[27-Jul-2016 20:53:00 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Jul-2016 18:48:24 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Jul-2016 18:48:24 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Jul-2016 18:50:22 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Jul-2016 18:50:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Jul-2016 19:01:38 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Jul-2016 19:01:38 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Jul-2016 20:04:38 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Jul-2016 20:04:38 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Aug-2016 10:47:15 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Aug-2016 10:47:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Aug-2016 10:47:16 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Aug-2016 10:47:16 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Aug-2016 14:15:42 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Aug-2016 14:15:42 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Aug-2016 14:20:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Aug-2016 14:20:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Aug-2016 14:21:19 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Aug-2016 14:21:19 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Aug-2016 14:26:40 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Aug-2016 14:26:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Aug-2016 20:15:42 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Aug-2016 20:15:42 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Aug-2016 21:37:09 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Aug-2016 21:37:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[02-Aug-2016 14:39:51 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[02-Aug-2016 14:39:51 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[02-Aug-2016 14:40:51 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[02-Aug-2016 14:40:51 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[02-Aug-2016 14:44:44 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[02-Aug-2016 14:44:44 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[03-Aug-2016 19:17:43 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[03-Aug-2016 19:17:43 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[05-Aug-2016 16:16:01 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[05-Aug-2016 16:16:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[08-Aug-2016 13:24:13 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[08-Aug-2016 13:24:13 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[08-Aug-2016 19:40:44 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[08-Aug-2016 19:40:44 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[08-Aug-2016 19:41:56 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[08-Aug-2016 19:41:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[09-Aug-2016 11:13:03 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[09-Aug-2016 11:13:03 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[10-Aug-2016 10:01:44 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[10-Aug-2016 10:01:44 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[10-Aug-2016 11:11:56 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[10-Aug-2016 11:11:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[10-Aug-2016 11:11:57 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[10-Aug-2016 11:11:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[10-Aug-2016 14:11:25 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[10-Aug-2016 14:11:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[10-Aug-2016 16:22:48 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[10-Aug-2016 16:22:48 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[11-Aug-2016 12:20:43 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[11-Aug-2016 12:20:43 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[11-Aug-2016 12:20:43 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[11-Aug-2016 12:20:43 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[11-Aug-2016 12:55:09 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[11-Aug-2016 12:55:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[11-Aug-2016 12:55:09 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[11-Aug-2016 12:55:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[11-Aug-2016 12:55:23 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[11-Aug-2016 12:55:23 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[11-Aug-2016 12:55:23 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[11-Aug-2016 12:55:23 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[11-Aug-2016 13:02:14 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[11-Aug-2016 13:02:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[11-Aug-2016 13:02:14 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[11-Aug-2016 13:02:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[11-Aug-2016 13:46:01 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[11-Aug-2016 13:46:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[11-Aug-2016 13:46:02 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[11-Aug-2016 13:46:02 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[11-Aug-2016 21:55:00 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[11-Aug-2016 21:55:00 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[12-Aug-2016 10:53:17 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[12-Aug-2016 10:53:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[12-Aug-2016 10:53:17 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[12-Aug-2016 10:53:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[13-Aug-2016 19:27:36 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[13-Aug-2016 19:27:36 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[14-Aug-2016 18:04:06 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[14-Aug-2016 18:04:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[14-Aug-2016 18:04:07 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[14-Aug-2016 18:04:07 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[14-Aug-2016 19:15:22 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[14-Aug-2016 19:15:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[16-Aug-2016 17:30:21 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[16-Aug-2016 17:30:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[16-Aug-2016 19:29:03 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[16-Aug-2016 19:29:03 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[16-Aug-2016 20:04:14 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[16-Aug-2016 20:04:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[16-Aug-2016 20:04:17 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[16-Aug-2016 20:04:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[16-Aug-2016 20:04:31 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[16-Aug-2016 20:04:31 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[16-Aug-2016 20:05:06 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[16-Aug-2016 20:05:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[16-Aug-2016 20:05:36 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[16-Aug-2016 20:05:36 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[16-Aug-2016 20:06:26 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[16-Aug-2016 20:06:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[16-Aug-2016 23:05:11 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[16-Aug-2016 23:05:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[17-Aug-2016 10:28:10 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[17-Aug-2016 10:28:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[17-Aug-2016 10:50:20 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[17-Aug-2016 10:50:20 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[17-Aug-2016 12:31:59 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[17-Aug-2016 12:31:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[17-Aug-2016 17:49:16 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[17-Aug-2016 17:49:16 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[17-Aug-2016 17:49:29 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[17-Aug-2016 17:49:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[17-Aug-2016 17:58:29 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[17-Aug-2016 17:58:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[17-Aug-2016 19:11:36 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[17-Aug-2016 19:11:36 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[17-Aug-2016 20:22:48 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[17-Aug-2016 20:22:48 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[17-Aug-2016 21:38:57 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[17-Aug-2016 21:38:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[17-Aug-2016 22:09:13 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[17-Aug-2016 22:09:13 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[17-Aug-2016 22:28:10 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[17-Aug-2016 22:28:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[17-Aug-2016 22:28:16 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[17-Aug-2016 22:28:16 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 00:36:10 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 00:36:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 00:53:14 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 00:53:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 01:00:09 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 01:00:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 10:13:28 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 10:13:28 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 10:27:24 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 10:27:24 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 10:27:34 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 10:27:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 10:27:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 10:27:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 11:46:40 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 11:46:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 12:02:29 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 12:02:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 12:05:40 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 12:05:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 12:05:41 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 12:05:41 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 12:05:45 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 12:05:45 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 12:05:45 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 12:05:45 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 12:34:42 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 12:34:42 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 12:35:29 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 12:35:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 12:36:32 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 12:36:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 12:53:39 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 12:53:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 13:55:32 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 13:55:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 14:48:05 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 14:48:05 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 14:48:05 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 14:48:05 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 16:41:12 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 16:41:12 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 16:41:17 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 16:41:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 16:41:19 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 16:41:19 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 16:41:31 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 16:41:31 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 16:41:35 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 16:41:35 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 16:41:39 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 16:41:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 16:41:40 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 16:41:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 16:49:25 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 16:49:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 17:10:26 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 17:10:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 17:49:46 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 17:49:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 19:56:38 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 19:56:38 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 23:00:07 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 23:00:07 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 23:21:50 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 23:21:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[18-Aug-2016 23:48:31 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[18-Aug-2016 23:48:31 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Aug-2016 01:05:04 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Aug-2016 01:05:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Aug-2016 01:22:03 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Aug-2016 01:22:03 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Aug-2016 01:43:53 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Aug-2016 01:43:53 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Aug-2016 02:14:46 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Aug-2016 02:14:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Aug-2016 04:11:18 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Aug-2016 04:11:18 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Aug-2016 04:11:18 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Aug-2016 04:11:18 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Aug-2016 08:07:50 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Aug-2016 08:07:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Aug-2016 09:27:22 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Aug-2016 09:27:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Aug-2016 10:53:23 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Aug-2016 10:53:23 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Aug-2016 17:33:22 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Aug-2016 17:33:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Aug-2016 17:35:55 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Aug-2016 17:35:55 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Aug-2016 19:04:54 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Aug-2016 19:04:54 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Aug-2016 21:49:57 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Aug-2016 21:49:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[19-Aug-2016 22:18:16 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[19-Aug-2016 22:18:16 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Aug-2016 12:59:39 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Aug-2016 12:59:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[20-Aug-2016 18:37:07 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[20-Aug-2016 18:37:07 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[21-Aug-2016 09:14:08 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[21-Aug-2016 09:14:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[21-Aug-2016 09:14:11 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[21-Aug-2016 09:14:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[21-Aug-2016 13:30:23 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[21-Aug-2016 13:30:23 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[21-Aug-2016 14:02:22 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[21-Aug-2016 14:02:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[21-Aug-2016 15:37:34 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[21-Aug-2016 15:37:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[21-Aug-2016 19:21:42 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[21-Aug-2016 19:21:42 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[21-Aug-2016 19:22:04 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[21-Aug-2016 19:22:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[21-Aug-2016 19:22:29 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[21-Aug-2016 19:22:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[21-Aug-2016 19:22:42 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[21-Aug-2016 19:22:42 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[21-Aug-2016 19:23:48 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[21-Aug-2016 19:23:48 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[21-Aug-2016 20:31:26 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[21-Aug-2016 20:31:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[21-Aug-2016 21:42:39 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[21-Aug-2016 21:42:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[22-Aug-2016 08:46:30 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[22-Aug-2016 08:46:30 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[22-Aug-2016 09:55:28 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[22-Aug-2016 09:55:28 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[22-Aug-2016 20:23:36 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[22-Aug-2016 20:23:36 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[22-Aug-2016 21:02:03 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[22-Aug-2016 21:02:03 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[22-Aug-2016 23:40:58 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[22-Aug-2016 23:40:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[23-Aug-2016 10:08:32 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[23-Aug-2016 10:08:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[23-Aug-2016 18:00:22 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[23-Aug-2016 18:00:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[24-Aug-2016 09:18:12 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[24-Aug-2016 09:18:12 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[24-Aug-2016 11:01:22 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[24-Aug-2016 11:01:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[24-Aug-2016 11:29:34 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[24-Aug-2016 11:29:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[24-Aug-2016 11:30:27 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[24-Aug-2016 11:30:27 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[24-Aug-2016 12:12:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[24-Aug-2016 12:12:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[24-Aug-2016 12:14:39 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[24-Aug-2016 12:14:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[24-Aug-2016 12:54:11 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[24-Aug-2016 12:54:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[24-Aug-2016 12:54:11 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[24-Aug-2016 12:54:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[24-Aug-2016 15:06:21 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[24-Aug-2016 15:06:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[24-Aug-2016 15:06:38 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[24-Aug-2016 15:06:38 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[25-Aug-2016 12:14:55 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[25-Aug-2016 12:14:55 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[25-Aug-2016 12:15:01 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[25-Aug-2016 12:15:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[25-Aug-2016 12:18:23 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[25-Aug-2016 12:18:23 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[25-Aug-2016 12:40:57 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[25-Aug-2016 12:40:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[25-Aug-2016 15:56:05 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[25-Aug-2016 15:56:05 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[25-Aug-2016 16:00:26 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[25-Aug-2016 16:00:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[25-Aug-2016 17:38:57 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[25-Aug-2016 17:38:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[25-Aug-2016 17:40:31 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[25-Aug-2016 17:40:31 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[25-Aug-2016 19:26:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[25-Aug-2016 19:26:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[25-Aug-2016 19:26:39 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[25-Aug-2016 19:26:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[26-Aug-2016 08:08:11 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[26-Aug-2016 08:08:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[26-Aug-2016 09:28:42 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[26-Aug-2016 09:28:42 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[28-Aug-2016 12:43:00 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[28-Aug-2016 12:43:00 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[28-Aug-2016 13:55:02 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[28-Aug-2016 13:55:02 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[28-Aug-2016 16:44:19 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[28-Aug-2016 16:44:19 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[29-Aug-2016 07:22:50 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[29-Aug-2016 07:22:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[29-Aug-2016 08:51:19 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[29-Aug-2016 08:51:19 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[29-Aug-2016 13:06:11 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[29-Aug-2016 13:06:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[29-Aug-2016 16:20:29 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[29-Aug-2016 16:20:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[30-Aug-2016 07:00:08 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[30-Aug-2016 07:00:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[30-Aug-2016 09:06:50 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[30-Aug-2016 09:06:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[30-Aug-2016 10:03:39 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[30-Aug-2016 10:03:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[30-Aug-2016 10:26:32 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[30-Aug-2016 10:26:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[30-Aug-2016 12:33:01 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[30-Aug-2016 12:33:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[30-Aug-2016 14:18:09 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[30-Aug-2016 14:18:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[30-Aug-2016 18:51:14 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[30-Aug-2016 18:51:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[30-Aug-2016 19:43:56 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[30-Aug-2016 19:43:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[30-Aug-2016 19:49:33 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[30-Aug-2016 19:49:33 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[30-Aug-2016 23:15:04 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[30-Aug-2016 23:15:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Aug-2016 11:41:24 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Aug-2016 11:41:24 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Aug-2016 12:11:31 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Aug-2016 12:11:31 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Aug-2016 12:12:33 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Aug-2016 12:12:33 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Aug-2016 12:12:58 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Aug-2016 12:12:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Aug-2016 12:13:04 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Aug-2016 12:13:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Aug-2016 12:13:30 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Aug-2016 12:13:30 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Aug-2016 12:13:40 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Aug-2016 12:13:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Aug-2016 12:13:40 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Aug-2016 12:13:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Aug-2016 12:13:40 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Aug-2016 12:13:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Aug-2016 12:13:41 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Aug-2016 12:13:41 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Aug-2016 12:13:41 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Aug-2016 12:13:41 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Aug-2016 12:13:41 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Aug-2016 12:13:41 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Aug-2016 13:01:18 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Aug-2016 13:01:18 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[31-Aug-2016 18:55:10 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[31-Aug-2016 18:55:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Sep-2016 06:52:35 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Sep-2016 06:52:35 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Sep-2016 12:57:08 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Sep-2016 12:57:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Sep-2016 13:58:06 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Sep-2016 13:58:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Sep-2016 16:22:50 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Sep-2016 16:22:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Sep-2016 16:22:57 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Sep-2016 16:22:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Sep-2016 16:23:00 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Sep-2016 16:23:00 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Sep-2016 16:24:57 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Sep-2016 16:24:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Sep-2016 16:25:18 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Sep-2016 16:25:18 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Sep-2016 16:26:01 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Sep-2016 16:26:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[01-Sep-2016 22:52:39 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 158
+[01-Sep-2016 22:52:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ecolmena/public_html/sieweb/altamira/sieweb.php on line 209
+[29-Aug-2017 12:29:45 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[29-Aug-2017 12:29:45 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 84
+[29-Aug-2017 12:29:45 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 172
+[29-Aug-2017 12:32:10 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/datos.php on line 205
+[29-Aug-2017 12:38:34 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[29-Aug-2017 12:38:34 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 84
+[29-Aug-2017 12:38:34 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 172
+[29-Aug-2017 12:39:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[29-Aug-2017 12:39:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 84
+[29-Aug-2017 12:39:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 172
+[29-Aug-2017 12:40:28 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[29-Aug-2017 12:40:28 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[29-Aug-2017 12:40:28 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[29-Aug-2017 12:40:47 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[29-Aug-2017 12:40:47 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[29-Aug-2017 12:40:47 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[29-Aug-2017 12:43:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[29-Aug-2017 12:43:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[29-Aug-2017 12:43:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[29-Aug-2017 12:43:45 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[29-Aug-2017 12:43:45 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[29-Aug-2017 12:43:45 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[29-Aug-2017 12:45:01 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[29-Aug-2017 12:45:01 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[29-Aug-2017 12:45:01 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[29-Aug-2017 12:45:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[29-Aug-2017 12:45:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[29-Aug-2017 12:45:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 17 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[29-Aug-2017 12:45:17 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[29-Aug-2017 12:45:17 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[29-Aug-2017 12:45:17 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 17 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[29-Aug-2017 12:48:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[29-Aug-2017 12:48:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[29-Aug-2017 12:48:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[29-Aug-2017 12:49:45 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[29-Aug-2017 12:49:45 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[29-Aug-2017 12:49:45 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[30-Aug-2017 13:45:27 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/schoolware/public_html/sieweb/altamira/sieweb.php on line 158
+[30-Aug-2017 13:45:27 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/schoolware/public_html/sieweb/altamira/sieweb.php on line 209
+[30-Aug-2017 14:01:25 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[30-Aug-2017 14:01:25 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[30-Aug-2017 14:01:25 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[30-Aug-2017 14:02:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[30-Aug-2017 14:02:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[30-Aug-2017 14:02:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[30-Aug-2017 14:02:14 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/datos.php on line 205
+[30-Aug-2017 14:06:17 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[30-Aug-2017 14:06:17 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[30-Aug-2017 14:06:17 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[30-Aug-2017 14:07:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[30-Aug-2017 14:07:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[30-Aug-2017 14:07:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[30-Aug-2017 14:11:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[30-Aug-2017 14:11:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[30-Aug-2017 14:11:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[30-Aug-2017 14:13:32 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[30-Aug-2017 14:13:32 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[30-Aug-2017 14:13:32 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[30-Aug-2017 14:22:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[30-Aug-2017 14:22:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[30-Aug-2017 14:22:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[30-Aug-2017 14:23:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[30-Aug-2017 14:23:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[30-Aug-2017 14:23:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[30-Aug-2017 14:27:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 76
+[30-Aug-2017 14:27:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 76
+[30-Aug-2017 14:27:37 America/Mexico_City] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 76
+[30-Aug-2017 14:28:29 America/Mexico_City] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 77
+[30-Aug-2017 14:28:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[30-Aug-2017 14:28:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 84
+[30-Aug-2017 14:28:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 172
+[30-Aug-2017 14:33:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[30-Aug-2017 14:33:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 84
+[30-Aug-2017 14:33:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 172
+[30-Aug-2017 14:34:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[30-Aug-2017 14:34:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 84
+[30-Aug-2017 14:34:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 172
+[30-Aug-2017 14:35:03 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/schoolware/public_html/sieweb/altamira/sieweb.php on line 158
+[30-Aug-2017 14:35:03 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/schoolware/public_html/sieweb/altamira/sieweb.php on line 209
+[30-Aug-2017 14:36:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 39
+[30-Aug-2017 14:36:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 84
+[30-Aug-2017 14:36:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 172
+[30-Aug-2017 15:11:24 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/datos.php on line 205
+[30-Aug-2017 16:20:34 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 40
+[30-Aug-2017 16:20:34 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 85
+[30-Aug-2017 16:20:34 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 173
+[30-Aug-2017 16:59:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/schoolware/public_html/sieweb/altamira/boletas.php on line 40

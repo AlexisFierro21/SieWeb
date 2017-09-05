@@ -1,0 +1,2272 @@
+
+<html xmlns:x="urn:schemas-microsoft-com:office:excel">
+<head>
+
+<!--[if gte mso 9]>
+    <xml>
+        <x:ExcelWorkbook>
+            <x:ExcelWorksheets>
+                <x:ExcelWorksheet>
+                    <x:Name>Sheet 1</x:Name>
+                    <x:WorksheetOptions>
+                        <x:Print>
+                            <x:ValidPrinterInfo/>
+                        </x:Print>
+                    </x:WorksheetOptions>
+                </x:ExcelWorksheet>
+            </x:ExcelWorksheets>
+        </x:ExcelWorkbook>
+    </xml>
+    <![endif]-->
+	
+	
+	
+<title>Alumnos sin preceptoría</title>
+</head>
+<style>
+
+body {
+    margin-left: 2em
+}
+table {
+    margin-left: auto;
+    margin-right: auto
+}
+caption {
+    caption-side: left;
+    margin-left: -8em;
+    width: 8em;
+    text-align: right;
+    vertical-align: bottom
+}
+
+
+</style>
+
+	<title>Detalle de Alumnos sin preceptor&iacute;as</title>
+	<body>
+<center><img  src='https://ecolmenares.net/sieweb/altamira/im/logo.jpg' width='100%'></img></center>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>Rango de fechas del: 01/08/2017 Al: 28/08/2017<br>
+<table id='datatable' cellspacing='0' style='width: 80%; border: solid 2px #000000; font-size: 10pt'>
+  <tr>
+  	<td colspan='5' bgcolor='#004990' align='center'><font color='#FFFFFF'><strong>Alumnos sin preceptorias realizadas (Mensual)</strong></font></td>
+  </tr>
+  <tr>
+  	<th scope='col' bgcolor='#99b6d2' align='left'><font color='#FFFFFF'><strong>&nbsp;Alumno&nbsp;</strong></font></th>
+    <th scope='col' bgcolor='#99b6d2' align='left'><font color='#FFFFFF'><strong>&nbsp;Nombre&nbsp;</strong></font></th>
+	<th scope='col' bgcolor='#99b6d2' align='left'><font color='#FFFFFF'><strong>&nbsp;Secci&oacute;n&nbsp;</strong></font></th>
+    <th scope='col' bgcolor='#99b6d2' align='left'><font color='#FFFFFF'><strong>&nbsp;Grado&nbsp;</strong></font></th>
+	<th scope='col' bgcolor='#99b6d2' align='left'><font color='#FFFFFF'><strong>&nbsp;Preceptor&nbsp;</strong></font></th>
+  </tr><tr>
+					  <td>&nbsp;41793&nbsp;</td>
+					  <td>&nbsp;Eduardo Mateo Aceves Serrano&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41773&nbsp;</td>
+					  <td>&nbsp;Rolando Amador Miranda&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41829&nbsp;</td>
+					  <td>&nbsp;Jerónimo Arreola Ramírez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41791&nbsp;</td>
+					  <td>&nbsp;Nicolás Bricio Camacho&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41785&nbsp;</td>
+					  <td>&nbsp;Nicolás Cervantes García&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41787&nbsp;</td>
+					  <td>&nbsp;Andreu Escapa Aguilar&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41768&nbsp;</td>
+					  <td>&nbsp;Gabriel Fernández Pellón Gutiérrez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41823&nbsp;</td>
+					  <td>&nbsp;Lucio Ferrer Regalado&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41782&nbsp;</td>
+					  <td>&nbsp;Luis Maximiliano Galván Montes de Oca&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41769&nbsp;</td>
+					  <td>&nbsp;Bruno Gómez Del Río&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41786&nbsp;</td>
+					  <td>&nbsp;Fernando Hiram Gomez Serrano&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41822&nbsp;</td>
+					  <td>&nbsp;Miguel Angel González Vidrio&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41767&nbsp;</td>
+					  <td>&nbsp;Eduardo Maciel Casillas&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41772&nbsp;</td>
+					  <td>&nbsp;Manuel Mestas Monteón&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41784&nbsp;</td>
+					  <td>&nbsp;Alejandro Orozco Sandoval&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41775&nbsp;</td>
+					  <td>&nbsp;Luis Daniel Ramírez Chávez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41779&nbsp;</td>
+					  <td>&nbsp;Pablo Romero Barba&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41812&nbsp;</td>
+					  <td>&nbsp;Alvaro Sánchez Arpio&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41780&nbsp;</td>
+					  <td>&nbsp;Juan Pablo Sereno Sandoval&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41798&nbsp;</td>
+					  <td>&nbsp;Antonio Vázquez Utrilla&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41795&nbsp;</td>
+					  <td>&nbsp;Agustín Villanueva Costa&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41781&nbsp;</td>
+					  <td>&nbsp;Emilio Zamudio De Obeso&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;E</td>
+					  <td>&nbsp;Adolfo Castillo Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41771&nbsp;</td>
+					  <td>&nbsp;Fernando Amezcua Gómez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41790&nbsp;</td>
+					  <td>&nbsp;Leonardo Bricio Camacho&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41794&nbsp;</td>
+					  <td>&nbsp;Santiago Castro Sigala&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41766&nbsp;</td>
+					  <td>&nbsp;José Alvaro De Anda Gallardo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41817&nbsp;</td>
+					  <td>&nbsp;Patricio Demerutis Tejera&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41776&nbsp;</td>
+					  <td>&nbsp;Santiago García Del Muro&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Héctor Rodolfo Eguiarte Alcalá&nbsp;</td><tr>
+					  <td>&nbsp;41834&nbsp;</td>
+					  <td>&nbsp;José María González Vásquez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41839&nbsp;</td>
+					  <td>&nbsp;Ian López De la Torre&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41809&nbsp;</td>
+					  <td>&nbsp;Juan Carlos Montañez Cisneros&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41835&nbsp;</td>
+					  <td>&nbsp;Diego Montelongo Castellanos&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41818&nbsp;</td>
+					  <td>&nbsp;Santiago Morán Ron&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41815&nbsp;</td>
+					  <td>&nbsp;Maximiliano Morgan Gallardo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41777&nbsp;</td>
+					  <td>&nbsp;Mikel Navarro Ley&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41796&nbsp;</td>
+					  <td>&nbsp;Lucas Nicolás Pérez Castro&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41805&nbsp;</td>
+					  <td>&nbsp;Carlos Alberto Puente Ledesma&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41783&nbsp;</td>
+					  <td>&nbsp;Franco Nicolás Ramírez Hernández&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41801&nbsp;</td>
+					  <td>&nbsp;Patricio Alejandro Rosales Vargas&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41827&nbsp;</td>
+					  <td>&nbsp;Adrian Valencia Ortiz&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41799&nbsp;</td>
+					  <td>&nbsp;Adrián Vela Prieto&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41810&nbsp;</td>
+					  <td>&nbsp;Gabriel Zuloaga Ramos&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;I</td>
+					  <td>&nbsp;Edwin Iván Muñiz Gómez&nbsp;</td><tr>
+					  <td>&nbsp;41685&nbsp;</td>
+					  <td>&nbsp;Alonso Alcalá Rizo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41693&nbsp;</td>
+					  <td>&nbsp;Emilio Abraham Alcázar León&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41692&nbsp;</td>
+					  <td>&nbsp;Arturo Álvarez Sais&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41721&nbsp;</td>
+					  <td>&nbsp;Santiago Barrera Navarrete&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41670&nbsp;</td>
+					  <td>&nbsp;Leonardo Campoy Mendoza&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41674&nbsp;</td>
+					  <td>&nbsp;Rafaél Elizondo Terrazas&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Ulises Cocula Ramos&nbsp;</td><tr>
+					  <td>&nbsp;41672&nbsp;</td>
+					  <td>&nbsp;Pablo Esquivel Mendoza&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Ulises Cocula Ramos&nbsp;</td><tr>
+					  <td>&nbsp;41714&nbsp;</td>
+					  <td>&nbsp;Pablo Alberto Fernández Ferrer&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41699&nbsp;</td>
+					  <td>&nbsp;Rodrigo Gonzalez Aguirre&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41702&nbsp;</td>
+					  <td>&nbsp;José Luis González Madrigal&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Ulises Cocula Ramos&nbsp;</td><tr>
+					  <td>&nbsp;41745&nbsp;</td>
+					  <td>&nbsp;Mateo González Torres&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41833&nbsp;</td>
+					  <td>&nbsp;Juan Pablo González Vásquez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Ulises Cocula Ramos&nbsp;</td><tr>
+					  <td>&nbsp;41720&nbsp;</td>
+					  <td>&nbsp;Juan Pablo Hernández Romano&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Ulises Cocula Ramos&nbsp;</td><tr>
+					  <td>&nbsp;41747&nbsp;</td>
+					  <td>&nbsp;Ian David Marrufo Bernal&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41703&nbsp;</td>
+					  <td>&nbsp;Santiago Mascorro Álvarez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Ulises Cocula Ramos&nbsp;</td><tr>
+					  <td>&nbsp;41706&nbsp;</td>
+					  <td>&nbsp;José Enrique Mitani Ortega&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Ulises Cocula Ramos&nbsp;</td><tr>
+					  <td>&nbsp;41669&nbsp;</td>
+					  <td>&nbsp;Armando Ortega Rodríguez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Héctor Frias Luis&nbsp;</td><tr>
+					  <td>&nbsp;41734&nbsp;</td>
+					  <td>&nbsp;Mateo Alejandro Pérez Sánchez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41690&nbsp;</td>
+					  <td>&nbsp;Isaac Quintero Miramontes&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41705&nbsp;</td>
+					  <td>&nbsp;Jaime Rafols Nava&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41719&nbsp;</td>
+					  <td>&nbsp;José Rizo Galindo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Juan Arturo Gónzalez Maggiani&nbsp;</td><tr>
+					  <td>&nbsp;41681&nbsp;</td>
+					  <td>&nbsp;Luis Ricardo Ruan Martínez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Ulises Cocula Ramos&nbsp;</td><tr>
+					  <td>&nbsp;41684&nbsp;</td>
+					  <td>&nbsp;Elías Rubio Ochoa&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Ulises Cocula Ramos&nbsp;</td><tr>
+					  <td>&nbsp;41688&nbsp;</td>
+					  <td>&nbsp;Ian Pablo Sandoval Morales&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41686&nbsp;</td>
+					  <td>&nbsp;Santiago Vivanco Espinosa&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;E</td>
+					  <td>&nbsp;Ulises Cocula Ramos&nbsp;</td><tr>
+					  <td>&nbsp;41698&nbsp;</td>
+					  <td>&nbsp;Alejandro Ceballos Cossio&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Rafael Dominguez Chalita&nbsp;</td><tr>
+					  <td>&nbsp;41711&nbsp;</td>
+					  <td>&nbsp;Matias Esquivias Villalpando&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;José Ángel Segura Valerio&nbsp;</td><tr>
+					  <td>&nbsp;41673&nbsp;</td>
+					  <td>&nbsp;Santiago Flores Aymes&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Rafael Dominguez Chalita&nbsp;</td><tr>
+					  <td>&nbsp;41675&nbsp;</td>
+					  <td>&nbsp;Joaquín de Jesús Gallegos Aguirre&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Rafael Dominguez Chalita&nbsp;</td><tr>
+					  <td>&nbsp;41716&nbsp;</td>
+					  <td>&nbsp;Bernardo García Sánchez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Rafael Dominguez Chalita&nbsp;</td><tr>
+					  <td>&nbsp;41722&nbsp;</td>
+					  <td>&nbsp;Cristopher Gabriel Gutiérrez Cordero&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41697&nbsp;</td>
+					  <td>&nbsp;Juan Andrés Meza Perez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Rafael Dominguez Chalita&nbsp;</td><tr>
+					  <td>&nbsp;41728&nbsp;</td>
+					  <td>&nbsp;Luis Manuel Mora Sandoval&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Rafael Dominguez Chalita&nbsp;</td><tr>
+					  <td>&nbsp;41689&nbsp;</td>
+					  <td>&nbsp;Lucca Navarro Velasco&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41678&nbsp;</td>
+					  <td>&nbsp;Mateo Osorno Méndez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Rafael Dominguez Chalita&nbsp;</td><tr>
+					  <td>&nbsp;41736&nbsp;</td>
+					  <td>&nbsp;Ricardo Paredes Camberos&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41713&nbsp;</td>
+					  <td>&nbsp;Matias Humberto Perez Castro&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Rafael Dominguez Chalita&nbsp;</td><tr>
+					  <td>&nbsp;41676&nbsp;</td>
+					  <td>&nbsp;Juan Pablo Ramírez Moreno Mora&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Rafael Dominguez Chalita&nbsp;</td><tr>
+					  <td>&nbsp;41701&nbsp;</td>
+					  <td>&nbsp;Jesús Hiram Santillán Guerra&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Rafael Dominguez Chalita&nbsp;</td><tr>
+					  <td>&nbsp;41726&nbsp;</td>
+					  <td>&nbsp;Eduardo Alessandro Saucedo Villalpando&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Rafael Dominguez Chalita&nbsp;</td><tr>
+					  <td>&nbsp;41761&nbsp;</td>
+					  <td>&nbsp;Rodrigo Suárez Cruz&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Rafael Dominguez Chalita&nbsp;</td><tr>
+					  <td>&nbsp;41671&nbsp;</td>
+					  <td>&nbsp;Adrian Vergara Elias&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41710&nbsp;</td>
+					  <td>&nbsp;Angel Victoria Villegas&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Rafael Dominguez Chalita&nbsp;</td><tr>
+					  <td>&nbsp;41750&nbsp;</td>
+					  <td>&nbsp;Jorge Arturo Zepeda Terrazas&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;I</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41819&nbsp;</td>
+					  <td>&nbsp;Nicolás Alcázar Carrillo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;E</td>
+					  <td>&nbsp;Héctor Frias Luis&nbsp;</td><tr>
+					  <td>&nbsp;41551&nbsp;</td>
+					  <td>&nbsp;Patricio Benavides Castro&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;E</td>
+					  <td>&nbsp;Héctor Frias Luis&nbsp;</td><tr>
+					  <td>&nbsp;41560&nbsp;</td>
+					  <td>&nbsp;Ramon Nicolas Castellanos Hernández&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;E</td>
+					  <td>&nbsp;Héctor Frias Luis&nbsp;</td><tr>
+					  <td>&nbsp;41559&nbsp;</td>
+					  <td>&nbsp;Ricardo Domínguez Rubio&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;E</td>
+					  <td>&nbsp;Héctor Frias Luis&nbsp;</td><tr>
+					  <td>&nbsp;41753&nbsp;</td>
+					  <td>&nbsp;Nicolás Fajardo Castañeda&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;E</td>
+					  <td>&nbsp;Héctor Frias Luis&nbsp;</td><tr>
+					  <td>&nbsp;41550&nbsp;</td>
+					  <td>&nbsp;Patricio Genesta Del Vivar&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;E</td>
+					  <td>&nbsp;Héctor Frias Luis&nbsp;</td><tr>
+					  <td>&nbsp;41584&nbsp;</td>
+					  <td>&nbsp;Ricardo Matias Gomez Serrano&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;E</td>
+					  <td>&nbsp;José Ángel Segura Valerio&nbsp;</td><tr>
+					  <td>&nbsp;41557&nbsp;</td>
+					  <td>&nbsp;Juan Pablo Herrera Bravo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;E</td>
+					  <td>&nbsp;Héctor Frias Luis&nbsp;</td><tr>
+					  <td>&nbsp;41575&nbsp;</td>
+					  <td>&nbsp;Diego Landa Arias&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;E</td>
+					  <td>&nbsp;Héctor Frias Luis&nbsp;</td><tr>
+					  <td>&nbsp;41838&nbsp;</td>
+					  <td>&nbsp;Mateo López De la Torre&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;E</td>
+					  <td>&nbsp;Héctor Frias Luis&nbsp;</td><tr>
+					  <td>&nbsp;41558&nbsp;</td>
+					  <td>&nbsp;Nestor José Marmolejo Padilla&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;E</td>
+					  <td>&nbsp;Héctor Frias Luis&nbsp;</td><tr>
+					  <td>&nbsp;41585&nbsp;</td>
+					  <td>&nbsp;Paulo Mora Oyervides&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;E</td>
+					  <td>&nbsp;Héctor Frias Luis&nbsp;</td><tr>
+					  <td>&nbsp;41731&nbsp;</td>
+					  <td>&nbsp;Pablo Sanchez Arpio&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41544&nbsp;</td>
+					  <td>&nbsp;Hugo Felipe Sereno Padilla&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;E</td>
+					  <td>&nbsp;Héctor Frias Luis&nbsp;</td><tr>
+					  <td>&nbsp;41578&nbsp;</td>
+					  <td>&nbsp;Emilio Amézaga Manzano&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41592&nbsp;</td>
+					  <td>&nbsp;Mateo Arizti Mayorga&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Juan Arturo Gónzalez Maggiani&nbsp;</td><tr>
+					  <td>&nbsp;41581&nbsp;</td>
+					  <td>&nbsp;Bryan Oswaldo Frias Durán&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41573&nbsp;</td>
+					  <td>&nbsp;Diego García Sánchez Barba&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41552&nbsp;</td>
+					  <td>&nbsp;Carlos Antonio Hernández Padilla&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41562&nbsp;</td>
+					  <td>&nbsp;Angel Roman Larumbe Guerrero&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41549&nbsp;</td>
+					  <td>&nbsp;Alexter López Agraz&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41570&nbsp;</td>
+					  <td>&nbsp;Gerardo López Gómez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41836&nbsp;</td>
+					  <td>&nbsp;Daniel Montelongo Castellanos&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41546&nbsp;</td>
+					  <td>&nbsp;Luis Humberto Montoya Herrera&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41657&nbsp;</td>
+					  <td>&nbsp;Karlo Farid Puga Vázquez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41580&nbsp;</td>
+					  <td>&nbsp;Rodrigo Quintana Villa&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;José Ángel Segura Valerio&nbsp;</td><tr>
+					  <td>&nbsp;41567&nbsp;</td>
+					  <td>&nbsp;Carlos Santiago Ramírez Amezcua&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41647&nbsp;</td>
+					  <td>&nbsp;Carlos Alfonso Ramírez Hernández&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41547&nbsp;</td>
+					  <td>&nbsp;Álvaro Romero Barba&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41571&nbsp;</td>
+					  <td>&nbsp;Christian Emmanuel Romo Panduro&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41595&nbsp;</td>
+					  <td>&nbsp;Santiago Serur Pastrana&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41587&nbsp;</td>
+					  <td>&nbsp;Pablo Uribe Sánchez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Pablo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41594&nbsp;</td>
+					  <td>&nbsp;Jesús Varela León&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;I</td>
+					  <td>&nbsp;Marco Antonio Sánchez Martínez&nbsp;</td><tr>
+					  <td>&nbsp;41470&nbsp;</td>
+					  <td>&nbsp;Azahel Leonardo Alcázar León&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41487&nbsp;</td>
+					  <td>&nbsp;Esteban Carral Ochoa&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Héctor Rodolfo Eguiarte Alcalá&nbsp;</td><tr>
+					  <td>&nbsp;41542&nbsp;</td>
+					  <td>&nbsp;Santiago Domínguez González&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Héctor Rodolfo Eguiarte Alcalá&nbsp;</td><tr>
+					  <td>&nbsp;41342&nbsp;</td>
+					  <td>&nbsp;Gustavo Durán Matus&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Héctor Rodolfo Eguiarte Alcalá&nbsp;</td><tr>
+					  <td>&nbsp;41458&nbsp;</td>
+					  <td>&nbsp;Mateo García Del Muro&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Juan Arturo Gónzalez Maggiani&nbsp;</td><tr>
+					  <td>&nbsp;41510&nbsp;</td>
+					  <td>&nbsp;Luis Felipe Gonzalez Aguirre&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41445&nbsp;</td>
+					  <td>&nbsp;Miguel Ángel Guzmán Vázquez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Héctor Rodolfo Eguiarte Alcalá&nbsp;</td><tr>
+					  <td>&nbsp;41468&nbsp;</td>
+					  <td>&nbsp;Miguel Agustin Juárez Hernández&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Héctor Rodolfo Eguiarte Alcalá&nbsp;</td><tr>
+					  <td>&nbsp;41459&nbsp;</td>
+					  <td>&nbsp;Andrés Montiel López&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Héctor Rodolfo Eguiarte Alcalá&nbsp;</td><tr>
+					  <td>&nbsp;41471&nbsp;</td>
+					  <td>&nbsp;Isaac Javier Navarro Ávila&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Héctor Rodolfo Eguiarte Alcalá&nbsp;</td><tr>
+					  <td>&nbsp;41605&nbsp;</td>
+					  <td>&nbsp;Mateo Ramírez De la Torre&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Héctor Rodolfo Eguiarte Alcalá&nbsp;</td><tr>
+					  <td>&nbsp;41860&nbsp;</td>
+					  <td>&nbsp;Josemaría Rodríguez Hernández&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Héctor Rodolfo Eguiarte Alcalá&nbsp;</td><tr>
+					  <td>&nbsp;41497&nbsp;</td>
+					  <td>&nbsp;José Miguel Rodriguez Madrid&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Fortunato Benavides González&nbsp;</td><tr>
+					  <td>&nbsp;41484&nbsp;</td>
+					  <td>&nbsp;Francisco Ruíz Barba&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Héctor Rodolfo Eguiarte Alcalá&nbsp;</td><tr>
+					  <td>&nbsp;41756&nbsp;</td>
+					  <td>&nbsp;Gabriel Velez Pallares&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41457&nbsp;</td>
+					  <td>&nbsp;Pablo Andrés Zepeda Ochoa&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;E</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41490&nbsp;</td>
+					  <td>&nbsp;Mateo Asencio Serrano&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Raul Murillo Rodríguez&nbsp;</td><tr>
+					  <td>&nbsp;41466&nbsp;</td>
+					  <td>&nbsp;Diego Alejandro Barrón Celis&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Raul Murillo Rodríguez&nbsp;</td><tr>
+					  <td>&nbsp;41513&nbsp;</td>
+					  <td>&nbsp;Santiago Camarena González&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Raul Murillo Rodríguez&nbsp;</td><tr>
+					  <td>&nbsp;41462&nbsp;</td>
+					  <td>&nbsp;Paulo Andrés Camarena Ruíz&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Juan Arturo Gónzalez Maggiani&nbsp;</td><tr>
+					  <td>&nbsp;41482&nbsp;</td>
+					  <td>&nbsp;Christopher Liam Castaneda Hernández&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41465&nbsp;</td>
+					  <td>&nbsp;Juan Alberto Castro Montoya&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Raul Murillo Rodríguez&nbsp;</td><tr>
+					  <td>&nbsp;41455&nbsp;</td>
+					  <td>&nbsp;Pablo Colín Valdés&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Raul Murillo Rodríguez&nbsp;</td><tr>
+					  <td>&nbsp;41467&nbsp;</td>
+					  <td>&nbsp;Luis Gabriel Galván Montes de Oca&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Fortunato Benavides González&nbsp;</td><tr>
+					  <td>&nbsp;41630&nbsp;</td>
+					  <td>&nbsp;Diego Gael García Jimenez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Raul Murillo Rodríguez&nbsp;</td><tr>
+					  <td>&nbsp;41491&nbsp;</td>
+					  <td>&nbsp;Diego García Santana&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Raul Murillo Rodríguez&nbsp;</td><tr>
+					  <td>&nbsp;41447&nbsp;</td>
+					  <td>&nbsp;Enrique Gódinez Ulloa&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41509&nbsp;</td>
+					  <td>&nbsp;Sebastián Gómez Sepúlveda&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Raul Murillo Rodríguez&nbsp;</td><tr>
+					  <td>&nbsp;41483&nbsp;</td>
+					  <td>&nbsp;Bernardo Guízar Signoret&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Raul Murillo Rodríguez&nbsp;</td><tr>
+					  <td>&nbsp;41477&nbsp;</td>
+					  <td>&nbsp;José Alfonso Jiménez Anaya&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Fortunato Benavides González&nbsp;</td><tr>
+					  <td>&nbsp;41498&nbsp;</td>
+					  <td>&nbsp;Hernan Larumbe Guerrero&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Raul Murillo Rodríguez&nbsp;</td><tr>
+					  <td>&nbsp;41456&nbsp;</td>
+					  <td>&nbsp;Nicolás Melo Sifuentes&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Raul Murillo Rodríguez&nbsp;</td><tr>
+					  <td>&nbsp;41623&nbsp;</td>
+					  <td>&nbsp;Juan Pablo Mercado Cordero&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Juan Arturo Gónzalez Maggiani&nbsp;</td><tr>
+					  <td>&nbsp;41543&nbsp;</td>
+					  <td>&nbsp;Víctor Manuel Montañez Cisneros&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Raul Murillo Rodríguez&nbsp;</td><tr>
+					  <td>&nbsp;41449&nbsp;</td>
+					  <td>&nbsp;Jose Pablo Montemayor Hijar&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Raul Murillo Rodríguez&nbsp;</td><tr>
+					  <td>&nbsp;41506&nbsp;</td>
+					  <td>&nbsp;André Navarro Velasco&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41461&nbsp;</td>
+					  <td>&nbsp;Luis Felipe Orellana Buenrostro&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;José Ángel Segura Valerio&nbsp;</td><tr>
+					  <td>&nbsp;41448&nbsp;</td>
+					  <td>&nbsp;Juan Diego Pérez Aguila&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Raul Murillo Rodríguez&nbsp;</td><tr>
+					  <td>&nbsp;41472&nbsp;</td>
+					  <td>&nbsp;Axel Santiago Rámirez Vázquez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41488&nbsp;</td>
+					  <td>&nbsp;Juan Pablo Zárate Rico&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;4&nbsp;I</td>
+					  <td>&nbsp;Héctor Rodolfo Eguiarte Alcalá&nbsp;</td><tr>
+					  <td>&nbsp;41389&nbsp;</td>
+					  <td>&nbsp;Luis Angel Anguiano Mejía&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41408&nbsp;</td>
+					  <td>&nbsp;Luis Ahmed Enrique Carlos González&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41328&nbsp;</td>
+					  <td>&nbsp;Santiago De la Torre Zamudio&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41530&nbsp;</td>
+					  <td>&nbsp;Gabriel Esquivel Mendoza&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41378&nbsp;</td>
+					  <td>&nbsp;Fabricio Alejandro García Del Razo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41361&nbsp;</td>
+					  <td>&nbsp;Miguel Eduardo Gómez Coronado Prieto&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;Juan Arturo Gónzalez Maggiani&nbsp;</td><tr>
+					  <td>&nbsp;41326&nbsp;</td>
+					  <td>&nbsp;Diego Miguel Ángel Gutiérrez Cordero&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41383&nbsp;</td>
+					  <td>&nbsp;Óscar Alberto Hernández Martinez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41375&nbsp;</td>
+					  <td>&nbsp;Santiago Hernández Pérez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41395&nbsp;</td>
+					  <td>&nbsp;Diego Jesús Mendoza Pinzón&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41343&nbsp;</td>
+					  <td>&nbsp;Franco Mora .&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;José Alfredo Márquez Parra&nbsp;</td><tr>
+					  <td>&nbsp;41379&nbsp;</td>
+					  <td>&nbsp;Jesús Gael Pérez Pantoja&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41433&nbsp;</td>
+					  <td>&nbsp;Santiago Ronquillo Torres&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;José Alfredo Márquez Parra&nbsp;</td><tr>
+					  <td>&nbsp;41357&nbsp;</td>
+					  <td>&nbsp;Gael Sánchez Briones&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41431&nbsp;</td>
+					  <td>&nbsp;Miguel Ángel Velázquez Solís&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41438&nbsp;</td>
+					  <td>&nbsp;Nicolás Vicente Martínez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;E</td>
+					  <td>&nbsp;José Alfredo Márquez Parra&nbsp;</td><tr>
+					  <td>&nbsp;41344&nbsp;</td>
+					  <td>&nbsp;Cristóbal Amozurrutia López&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41758&nbsp;</td>
+					  <td>&nbsp;Daniel Barba Pérez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Josué Iván Gómez Caldera&nbsp;</td><tr>
+					  <td>&nbsp;41352&nbsp;</td>
+					  <td>&nbsp;Miguel Cota Cordova&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41322&nbsp;</td>
+					  <td>&nbsp;Rubén Cuevas Meza&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41356&nbsp;</td>
+					  <td>&nbsp;Mauricio Figueroa Gaspar&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41351&nbsp;</td>
+					  <td>&nbsp;José Pablo Gallegos Aguirre&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41359&nbsp;</td>
+					  <td>&nbsp;José Julián García Campoy&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;José Ángel Segura Valerio&nbsp;</td><tr>
+					  <td>&nbsp;41363&nbsp;</td>
+					  <td>&nbsp;Patricio González Jiménez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41502&nbsp;</td>
+					  <td>&nbsp;Juan Pablo Ledesma Navarro&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41443&nbsp;</td>
+					  <td>&nbsp;Ricardo López Ortega González&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41744&nbsp;</td>
+					  <td>&nbsp;Pedro Jerome Macías Zárate&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Josué Iván Gómez Caldera&nbsp;</td><tr>
+					  <td>&nbsp;41760&nbsp;</td>
+					  <td>&nbsp;Alonso Malagon Gutiérrez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Josué Iván Gómez Caldera&nbsp;</td><tr>
+					  <td>&nbsp;41340&nbsp;</td>
+					  <td>&nbsp;Rodrigo Mayo López&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Josué Iván Gómez Caldera&nbsp;</td><tr>
+					  <td>&nbsp;41596&nbsp;</td>
+					  <td>&nbsp;Rubén Fabricio Medina Perez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41327&nbsp;</td>
+					  <td>&nbsp;José Guillermo Montemayor Hijar&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Josué Iván Gómez Caldera&nbsp;</td><tr>
+					  <td>&nbsp;41380&nbsp;</td>
+					  <td>&nbsp;Aron Moisés Moreno Orozco&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41339&nbsp;</td>
+					  <td>&nbsp;Ignacio Navarro Anaya&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41354&nbsp;</td>
+					  <td>&nbsp;Patricio Kiev Ramos Rivera&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Josué Iván Gómez Caldera&nbsp;</td><tr>
+					  <td>&nbsp;41335&nbsp;</td>
+					  <td>&nbsp;Francisco Javier Robles Lémus&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41349&nbsp;</td>
+					  <td>&nbsp;Mateo Salcedo Peña&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41355&nbsp;</td>
+					  <td>&nbsp;Diego Alexander Sandoval Morales&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41757&nbsp;</td>
+					  <td>&nbsp;Miguel Angel Velez Pallares&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Jesús Esteban Portillo Muñiz&nbsp;</td><tr>
+					  <td>&nbsp;41334&nbsp;</td>
+					  <td>&nbsp;Javier Alejandro Villanueva López&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41331&nbsp;</td>
+					  <td>&nbsp;Leonardo David Arias Arias&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Luis Armando García Sánchez&nbsp;</td><tr>
+					  <td>&nbsp;41661&nbsp;</td>
+					  <td>&nbsp;Axel Eduardo Barragán Hernández&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Luis Armando García Sánchez&nbsp;</td><tr>
+					  <td>&nbsp;41250&nbsp;</td>
+					  <td>&nbsp;Emiliano Bernal Aguilar&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Luis Armando García Sánchez&nbsp;</td><tr>
+					  <td>&nbsp;41427&nbsp;</td>
+					  <td>&nbsp;Miguel Bernardino Bonilla Blanco&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Luis Armando García Sánchez&nbsp;</td><tr>
+					  <td>&nbsp;41213&nbsp;</td>
+					  <td>&nbsp;Marco Rodrigo Campoy Mendoza&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Luis Armando García Sánchez&nbsp;</td><tr>
+					  <td>&nbsp;41233&nbsp;</td>
+					  <td>&nbsp;Santiago Celis Zamudio&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Luis Armando García Sánchez&nbsp;</td><tr>
+					  <td>&nbsp;41241&nbsp;</td>
+					  <td>&nbsp;Maximiliano Chávez Zarate&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Luis Armando García Sánchez&nbsp;</td><tr>
+					  <td>&nbsp;41222&nbsp;</td>
+					  <td>&nbsp;Rodrigo De la Peña Pérez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41260&nbsp;</td>
+					  <td>&nbsp;Francisco Javier Escobedo Guadalupe&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41224&nbsp;</td>
+					  <td>&nbsp;Santiago Flores Jiménez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41236&nbsp;</td>
+					  <td>&nbsp;Álvaro Gallo Cruz&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Luis Armando García Sánchez&nbsp;</td><tr>
+					  <td>&nbsp;41237&nbsp;</td>
+					  <td>&nbsp;Alejandro García Campoy&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Luis Armando García Sánchez&nbsp;</td><tr>
+					  <td>&nbsp;41832&nbsp;</td>
+					  <td>&nbsp;Fernando González Vásquez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Luis Armando García Sánchez&nbsp;</td><tr>
+					  <td>&nbsp;41273&nbsp;</td>
+					  <td>&nbsp;Joel de Jesús Muñíz Gutiérrez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Luis Armando García Sánchez&nbsp;</td><tr>
+					  <td>&nbsp;41220&nbsp;</td>
+					  <td>&nbsp;Diego Santiago Orozco Sánchez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;José Ángel Segura Valerio&nbsp;</td><tr>
+					  <td>&nbsp;41216&nbsp;</td>
+					  <td>&nbsp;Pablo Quintana Villa&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;José Ángel Segura Valerio&nbsp;</td><tr>
+					  <td>&nbsp;41246&nbsp;</td>
+					  <td>&nbsp;Gustavo Rubio Bustos&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41235&nbsp;</td>
+					  <td>&nbsp;Esteban Alberto Sereno Padilla&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41255&nbsp;</td>
+					  <td>&nbsp;Pedro Torres Becerra&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Luis Armando García Sánchez&nbsp;</td><tr>
+					  <td>&nbsp;41229&nbsp;</td>
+					  <td>&nbsp;Iñigo Velasco Anaya&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;E</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41249&nbsp;</td>
+					  <td>&nbsp;Mateo Álvarez Santana&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr>
+					  <td>&nbsp;41240&nbsp;</td>
+					  <td>&nbsp;Juan Carlos Chacón Gutiérrez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr>
+					  <td>&nbsp;41520&nbsp;</td>
+					  <td>&nbsp;José Isaías Compean León&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr>
+					  <td>&nbsp;41214&nbsp;</td>
+					  <td>&nbsp;Carlos Felipe de Anda Gallardo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;José Ángel Segura Valerio&nbsp;</td><tr>
+					  <td>&nbsp;41754&nbsp;</td>
+					  <td>&nbsp;Matias Fajardo Castañeda&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr>
+					  <td>&nbsp;41846&nbsp;</td>
+					  <td>&nbsp;Juan Carlo Férnandez De los Ríos&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr>
+					  <td>&nbsp;41410&nbsp;</td>
+					  <td>&nbsp;Isaac Daniel Flores García&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr>
+					  <td>&nbsp;41219&nbsp;</td>
+					  <td>&nbsp;Santiago García Ibarrarán&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr>
+					  <td>&nbsp;41572&nbsp;</td>
+					  <td>&nbsp;Álvaro Gómez Del Río&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41215&nbsp;</td>
+					  <td>&nbsp;Cristian Humberto Gómez Hernández&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr>
+					  <td>&nbsp;41243&nbsp;</td>
+					  <td>&nbsp;Emilio Guzmán Flores&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr>
+					  <td>&nbsp;41515&nbsp;</td>
+					  <td>&nbsp;Juan Pablo Hijar Navarro&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41523&nbsp;</td>
+					  <td>&nbsp;Darío Inguanzo Córdova&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr>
+					  <td>&nbsp;41442&nbsp;</td>
+					  <td>&nbsp;Santiago López Ortega González&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41211&nbsp;</td>
+					  <td>&nbsp;Juan Pablo Luna Rivas&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr>
+					  <td>&nbsp;41254&nbsp;</td>
+					  <td>&nbsp;Santiago Macias Fernández&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr>
+					  <td>&nbsp;41622&nbsp;</td>
+					  <td>&nbsp;José Antonio Mercado Cordero&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Juan Arturo Gónzalez Maggiani&nbsp;</td><tr>
+					  <td>&nbsp;41226&nbsp;</td>
+					  <td>&nbsp;Emilio Montoya Elizalde&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41234&nbsp;</td>
+					  <td>&nbsp;Andrés Ramírez Moreno Mora&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41289&nbsp;</td>
+					  <td>&nbsp;Aidan Saúl Reyes Sánchez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr>
+					  <td>&nbsp;41319&nbsp;</td>
+					  <td>&nbsp;Diego Rivera Campoy&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Juan Arturo Gónzalez Maggiani&nbsp;</td><tr>
+					  <td>&nbsp;41232&nbsp;</td>
+					  <td>&nbsp;Paulo Marcelo Sainz Chávez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41212&nbsp;</td>
+					  <td>&nbsp;Luis Francisco Salcedo Larios&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41732&nbsp;</td>
+					  <td>&nbsp;Andrés Sanchez Arpio&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr>
+					  <td>&nbsp;41230&nbsp;</td>
+					  <td>&nbsp;Mateo Sánchez Zepeda&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Ricardo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41423&nbsp;</td>
+					  <td>&nbsp;Antonio Isaac Valderrábano Rivas&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Primaria&nbsp;</td>
+					  <td>&nbsp;6&nbsp;I</td>
+					  <td>&nbsp;Manuel Covarrubias Castañeda&nbsp;</td><tr><td colspan='5' bgcolor='#004990'><font color='#FFFFFF'><strong>Sin preceptorias:</strong>&nbsp;&nbsp;244&nbsp;</font></td></tr><tr>
+					  <td>&nbsp;41167&nbsp;</td>
+					  <td>&nbsp;Héctor Ballesteros Ibarra&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Pablo Fletcher Sotomayor&nbsp;</td><tr>
+					  <td>&nbsp;41168&nbsp;</td>
+					  <td>&nbsp;Saulo César Castañeda Sánchez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;41146&nbsp;</td>
+					  <td>&nbsp;Juan Pablo Centeno Gutiérrez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41139&nbsp;</td>
+					  <td>&nbsp;Miguel Ángel Elizondo Terrazas&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;José Esteban Peralta Arias&nbsp;</td><tr>
+					  <td>&nbsp;41155&nbsp;</td>
+					  <td>&nbsp;Santiago Iván Figueroa Gaspar&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Fausto Eduardo Mercado Espinoza&nbsp;</td><tr>
+					  <td>&nbsp;41644&nbsp;</td>
+					  <td>&nbsp;Santiago Hernández Romano&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Francisco Fabian Velasco Navarro&nbsp;</td><tr>
+					  <td>&nbsp;41144&nbsp;</td>
+					  <td>&nbsp;Ian Herrera Cano&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Alfredo Mendez Rosales&nbsp;</td><tr>
+					  <td>&nbsp;41741&nbsp;</td>
+					  <td>&nbsp;Emilio López Peralta&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Pablo Fletcher Sotomayor&nbsp;</td><tr>
+					  <td>&nbsp;41190&nbsp;</td>
+					  <td>&nbsp;Emiliano Montoya Vega&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;José Esteban Peralta Arias&nbsp;</td><tr>
+					  <td>&nbsp;41204&nbsp;</td>
+					  <td>&nbsp;Andrés Moya Gutiérrez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;José Esteban Peralta Arias&nbsp;</td><tr>
+					  <td>&nbsp;41816&nbsp;</td>
+					  <td>&nbsp;Emilio Navarro Rodríguez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Fausto Eduardo Mercado Espinoza&nbsp;</td><tr>
+					  <td>&nbsp;41147&nbsp;</td>
+					  <td>&nbsp;Diego Ortega González Polo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;José Esteban Peralta Arias&nbsp;</td><tr>
+					  <td>&nbsp;41198&nbsp;</td>
+					  <td>&nbsp;Andrés Pérez López&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41165&nbsp;</td>
+					  <td>&nbsp;Diego Gael Pérez Montes&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Pablo Fletcher Sotomayor&nbsp;</td><tr>
+					  <td>&nbsp;41496&nbsp;</td>
+					  <td>&nbsp;Diego Rodriguez Madrid&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Gilberto Jiménez Palacio&nbsp;</td><tr>
+					  <td>&nbsp;41093&nbsp;</td>
+					  <td>&nbsp;Rodrigo Salcedo Garcia&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Fausto Eduardo Mercado Espinoza&nbsp;</td><tr>
+					  <td>&nbsp;41192&nbsp;</td>
+					  <td>&nbsp;Marco Daniel Cervantes Castañeda&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41152&nbsp;</td>
+					  <td>&nbsp;José Pablo Durán Matus&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;José Esteban Peralta Arias&nbsp;</td><tr>
+					  <td>&nbsp;41141&nbsp;</td>
+					  <td>&nbsp;Eduardo Fernández Pellon Gutiérrez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;Pablo Fletcher Sotomayor&nbsp;</td><tr>
+					  <td>&nbsp;41150&nbsp;</td>
+					  <td>&nbsp;Jan André González Gutiérrez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41844&nbsp;</td>
+					  <td>&nbsp;David Gutiérrez Castro&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;Francisco Fabian Velasco Navarro&nbsp;</td><tr>
+					  <td>&nbsp;41650&nbsp;</td>
+					  <td>&nbsp;José Abraham Gutiérrez Espinoza&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;Fausto Eduardo Mercado Espinoza&nbsp;</td><tr>
+					  <td>&nbsp;41614&nbsp;</td>
+					  <td>&nbsp;Mario Andres Jiménez Cervantes&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;Alfredo Mendez Rosales&nbsp;</td><tr>
+					  <td>&nbsp;41166&nbsp;</td>
+					  <td>&nbsp;Emilio Israel Macias Fernández&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;Pablo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41154&nbsp;</td>
+					  <td>&nbsp;Carlos Fernando Mantecón Siordia&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41138&nbsp;</td>
+					  <td>&nbsp;Diego Montiel López&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;José Esteban Peralta Arias&nbsp;</td><tr>
+					  <td>&nbsp;41151&nbsp;</td>
+					  <td>&nbsp;Duilio Alfonso Morgan Gallardo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;Fausto Eduardo Mercado Espinoza&nbsp;</td><tr>
+					  <td>&nbsp;41140&nbsp;</td>
+					  <td>&nbsp;Álvaro Navarro Carrillo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41179&nbsp;</td>
+					  <td>&nbsp;Andrés Paez Arandia&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;José Esteban Peralta Arias&nbsp;</td><tr>
+					  <td>&nbsp;41143&nbsp;</td>
+					  <td>&nbsp;Pablo Yaroslav Ramos Rivera&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;Pablo Fletcher Sotomayor&nbsp;</td><tr>
+					  <td>&nbsp;41174&nbsp;</td>
+					  <td>&nbsp;Cristian Rolando Ruíz Barba&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41159&nbsp;</td>
+					  <td>&nbsp;Diego Yepez Ramírez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;B</td>
+					  <td>&nbsp;Gilberto Jiménez Palacio&nbsp;</td><tr>
+					  <td>&nbsp;41660&nbsp;</td>
+					  <td>&nbsp;Ian Alejandro Barragán Hernández&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Francisco Fabian Velasco Navarro&nbsp;</td><tr>
+					  <td>&nbsp;41392&nbsp;</td>
+					  <td>&nbsp;Juan Manuel Cedrún Macías&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Pablo Fletcher Sotomayor&nbsp;</td><tr>
+					  <td>&nbsp;41116&nbsp;</td>
+					  <td>&nbsp;Luis Diego Chimal Figueroa&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41091&nbsp;</td>
+					  <td>&nbsp;Álvaro De la Peña Pérez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41092&nbsp;</td>
+					  <td>&nbsp;Luis Fernando Eguiarte Carlos&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Francisco Fabian Velasco Navarro&nbsp;</td><tr>
+					  <td>&nbsp;41637&nbsp;</td>
+					  <td>&nbsp;Mateo Garabito Macías&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41088&nbsp;</td>
+					  <td>&nbsp;Víctor Santiago García Campoy&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Francisco Fabian Velasco Navarro&nbsp;</td><tr>
+					  <td>&nbsp;41079&nbsp;</td>
+					  <td>&nbsp;Alex Gómez Murrieta&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;41189&nbsp;</td>
+					  <td>&nbsp;Mauricio Hernández Esparza&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Francisco Fabian Velasco Navarro&nbsp;</td><tr>
+					  <td>&nbsp;41098&nbsp;</td>
+					  <td>&nbsp;Roberto Isao Kiyota Escoto&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Pablo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41737&nbsp;</td>
+					  <td>&nbsp;Carlo Santiago Loy Escoto&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Francisco Fabian Velasco Navarro&nbsp;</td><tr>
+					  <td>&nbsp;41104&nbsp;</td>
+					  <td>&nbsp;Luis Antonio Meza Navarro&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Francisco Fabian Velasco Navarro&nbsp;</td><tr>
+					  <td>&nbsp;41193&nbsp;</td>
+					  <td>&nbsp;Emiliano Ojeda Rodríguez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Pablo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41603&nbsp;</td>
+					  <td>&nbsp;Alejandro Ortíz Gómez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Francisco Fabian Velasco Navarro&nbsp;</td><tr>
+					  <td>&nbsp;41739&nbsp;</td>
+					  <td>&nbsp;Jorge Enrique Ramirez Garibay&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Francisco Fabian Velasco Navarro&nbsp;</td><tr>
+					  <td>&nbsp;41707&nbsp;</td>
+					  <td>&nbsp;Manuel Rivera Navarro&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Francisco Fabian Velasco Navarro&nbsp;</td><tr>
+					  <td>&nbsp;41279&nbsp;</td>
+					  <td>&nbsp;Oliver Sánchez Sandoval&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;José Esteban Peralta Arias&nbsp;</td><tr>
+					  <td>&nbsp;41097&nbsp;</td>
+					  <td>&nbsp;Bernardo Sánchez Zepeda&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41704&nbsp;</td>
+					  <td>&nbsp;Ricardo Terriquez Covarrubias&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;Pablo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41712&nbsp;</td>
+					  <td>&nbsp;Carlos Arturo Torres Sanchez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;A</td>
+					  <td>&nbsp;José Esteban Peralta Arias&nbsp;</td><tr>
+					  <td>&nbsp;41069&nbsp;</td>
+					  <td>&nbsp;Germán José Arevalo González&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Pablo Fletcher Sotomayor&nbsp;</td><tr>
+					  <td>&nbsp;41332&nbsp;</td>
+					  <td>&nbsp;Rubén Bernardo Arias Arias&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Israel Eduardo Barajas Mendoza&nbsp;</td><tr>
+					  <td>&nbsp;41503&nbsp;</td>
+					  <td>&nbsp;Juan Pablo Blanco Lemus&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41486&nbsp;</td>
+					  <td>&nbsp;Diego Carral Ochoa&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Alfredo Mendez Rosales&nbsp;</td><tr>
+					  <td>&nbsp;41087&nbsp;</td>
+					  <td>&nbsp;Bruno Cervantes Romero&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Alfredo Mendez Rosales&nbsp;</td><tr>
+					  <td>&nbsp;41709&nbsp;</td>
+					  <td>&nbsp;Leonardo García Vargas&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Alfredo Mendez Rosales&nbsp;</td><tr>
+					  <td>&nbsp;41072&nbsp;</td>
+					  <td>&nbsp;Alejandro Godínez Ortega&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Alfredo Mendez Rosales&nbsp;</td><tr>
+					  <td>&nbsp;41107&nbsp;</td>
+					  <td>&nbsp;Carlos Eduardo González Garza&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Alfredo Mendez Rosales&nbsp;</td><tr>
+					  <td>&nbsp;41068&nbsp;</td>
+					  <td>&nbsp;Juan Pablo González Ogazon&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Pablo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41662&nbsp;</td>
+					  <td>&nbsp;Mario Saúl González Quijas&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;41067&nbsp;</td>
+					  <td>&nbsp;Angel Alberto Hernández Pérez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41825&nbsp;</td>
+					  <td>&nbsp;Isaac Esau Horta Tabares&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Alfredo Mendez Rosales&nbsp;</td><tr>
+					  <td>&nbsp;41512&nbsp;</td>
+					  <td>&nbsp;Alfonso Mario Maza Gómez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Pablo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41083&nbsp;</td>
+					  <td>&nbsp;Mariano Miranda Gómez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;José Esteban Peralta Arias&nbsp;</td><tr>
+					  <td>&nbsp;41102&nbsp;</td>
+					  <td>&nbsp;Hector Andres Muñoz Peregrina&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Pablo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41735&nbsp;</td>
+					  <td>&nbsp;Fernando Paredes Camberos&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Alfredo Mendez Rosales&nbsp;</td><tr>
+					  <td>&nbsp;41094&nbsp;</td>
+					  <td>&nbsp;Óscar Alberto Placencia Santoyo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;41402&nbsp;</td>
+					  <td>&nbsp;José Santiago Ramírez Orozco&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Alfredo Mendez Rosales&nbsp;</td><tr>
+					  <td>&nbsp;41393&nbsp;</td>
+					  <td>&nbsp;Martín Roldán Macías&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41439&nbsp;</td>
+					  <td>&nbsp;Gael Adalid Salazar Olivares&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Alfredo Mendez Rosales&nbsp;</td><tr>
+					  <td>&nbsp;41096&nbsp;</td>
+					  <td>&nbsp;Álvaro Santana Flores&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;José Esteban Peralta Arias&nbsp;</td><tr>
+					  <td>&nbsp;41111&nbsp;</td>
+					  <td>&nbsp;Iñigo Trigo De la Garza&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;José Esteban Peralta Arias&nbsp;</td><tr>
+					  <td>&nbsp;41148&nbsp;</td>
+					  <td>&nbsp;Guillermo Velasco Anaya&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;2&nbsp;B</td>
+					  <td>&nbsp;Alfredo Mendez Rosales&nbsp;</td><tr>
+					  <td>&nbsp;9373&nbsp;</td>
+					  <td>&nbsp;Luis Oswaldo Beltrán Aranda&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;José Esteban Peralta Arias&nbsp;</td><tr>
+					  <td>&nbsp;41095&nbsp;</td>
+					  <td>&nbsp;Diego Rodrigo Camarena Ruíz&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Fausto Eduardo Mercado Espinoza&nbsp;</td><tr>
+					  <td>&nbsp;41158&nbsp;</td>
+					  <td>&nbsp;José David Celis Zamudio&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;10419&nbsp;</td>
+					  <td>&nbsp;Eduardo Díaz Orozco&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Pablo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41042&nbsp;</td>
+					  <td>&nbsp;Héctor Manuel Eguiarte Carlos&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41022&nbsp;</td>
+					  <td>&nbsp;Jorge Alberto Fong Álvarez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Fausto Eduardo Mercado Espinoza&nbsp;</td><tr>
+					  <td>&nbsp;41372&nbsp;</td>
+					  <td>&nbsp;Gabriel Giadans Cuevas&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Emmanuel Mendez Soto&nbsp;</td><tr>
+					  <td>&nbsp;41217&nbsp;</td>
+					  <td>&nbsp;Luis Fernando Montaño Rodríguez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;41526&nbsp;</td>
+					  <td>&nbsp;Jesús Ivan Murguía Plascencia&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Fausto Eduardo Mercado Espinoza&nbsp;</td><tr>
+					  <td>&nbsp;41006&nbsp;</td>
+					  <td>&nbsp;Miguel Navarro Carrillo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;41024&nbsp;</td>
+					  <td>&nbsp;Luis Felipe Organista Mendez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Eduardo Villanueva Rascón&nbsp;</td><tr>
+					  <td>&nbsp;41437&nbsp;</td>
+					  <td>&nbsp;Alejandro Orozco Rosas&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;41295&nbsp;</td>
+					  <td>&nbsp;Javier Alfonso Ramírez Valenzuela&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;40207&nbsp;</td>
+					  <td>&nbsp;Sergio Zhivago Ramos Rivera&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;40218&nbsp;</td>
+					  <td>&nbsp;Santiago Sáinz Chávez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Jesus Israel Castañeda Padilla&nbsp;</td><tr>
+					  <td>&nbsp;41034&nbsp;</td>
+					  <td>&nbsp;Sergio Humberto Vela Prieto&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Emmanuel Mendez Soto&nbsp;</td><tr>
+					  <td>&nbsp;40215&nbsp;</td>
+					  <td>&nbsp;Iván Humberto Álvarez Santana&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Eduardo Villanueva Rascón&nbsp;</td><tr>
+					  <td>&nbsp;41029&nbsp;</td>
+					  <td>&nbsp;Óscar Roberto Angulo Rangel&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Pablo Fletcher Sotomayor&nbsp;</td><tr>
+					  <td>&nbsp;41023&nbsp;</td>
+					  <td>&nbsp;Luis Fernando Galvan Montes de Oca&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;41373&nbsp;</td>
+					  <td>&nbsp;Leonardo Giadans Cuevas&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Emmanuel Mendez Soto&nbsp;</td><tr>
+					  <td>&nbsp;40216&nbsp;</td>
+					  <td>&nbsp;Francisco González Alducín&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;41532&nbsp;</td>
+					  <td>&nbsp;Héctor Antonio González Freeman&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Fausto Eduardo Mercado Espinoza&nbsp;</td><tr>
+					  <td>&nbsp;41052&nbsp;</td>
+					  <td>&nbsp;Isaac Humberto Preciado Bazavilvazo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Pablo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41017&nbsp;</td>
+					  <td>&nbsp;Jorge Pulido Rodríguez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Pablo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41028&nbsp;</td>
+					  <td>&nbsp;Pablo Ignacio Ramírez Valencia&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Pablo Fletcher Sotomayor&nbsp;</td><tr>
+					  <td>&nbsp;10453&nbsp;</td>
+					  <td>&nbsp;Lino Rangel Gutiérrez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;41318&nbsp;</td>
+					  <td>&nbsp;Martín Emiliano Rivera Campoy&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41275&nbsp;</td>
+					  <td>&nbsp;Sergio Daniel Romo Quiles&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;11499&nbsp;</td>
+					  <td>&nbsp;Luis Carlos Rubio Ochoa&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Fausto Eduardo Mercado Espinoza&nbsp;</td><tr>
+					  <td>&nbsp;41008&nbsp;</td>
+					  <td>&nbsp;Kevin Sánchez Carranza&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41043&nbsp;</td>
+					  <td>&nbsp;Braulio Ivan Solorio Gómez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Pablo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;40221&nbsp;</td>
+					  <td>&nbsp;Francisco Alexander Sotomayor Pineda&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Pablo Fletcher Sotomayor&nbsp;</td><tr>
+					  <td>&nbsp;41066&nbsp;</td>
+					  <td>&nbsp;Santiago Talavera Guerrero&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Secundaria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;B</td>
+					  <td>&nbsp;Jesus Israel Castañeda Padilla&nbsp;</td><tr><td colspan='5' bgcolor='#004990'><font color='#FFFFFF'><strong>Sin preceptorias:</strong>&nbsp;&nbsp;108&nbsp;</font></td></tr><tr>
+					  <td>&nbsp;41333&nbsp;</td>
+					  <td>&nbsp;Mauricio Eduardo Arias Arias&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Humberto Salomon Rangel Torres&nbsp;</td><tr>
+					  <td>&nbsp;40173&nbsp;</td>
+					  <td>&nbsp;Juan Cristóbal Casillas Hernández&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41384&nbsp;</td>
+					  <td>&nbsp;Jorge Emilio Celaya Rubio&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Fernando Soto Pérez&nbsp;</td><tr>
+					  <td>&nbsp;40217&nbsp;</td>
+					  <td>&nbsp;José Trinidad Cervantes Romero&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Fernando Soto Pérez&nbsp;</td><tr>
+					  <td>&nbsp;40171&nbsp;</td>
+					  <td>&nbsp;Diego Díaz Jasso&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;José Luis Partida Contreras&nbsp;</td><tr>
+					  <td>&nbsp;41269&nbsp;</td>
+					  <td>&nbsp;Fernando Escalé Salido&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Humberto Salomon Rangel Torres&nbsp;</td><tr>
+					  <td>&nbsp;40141&nbsp;</td>
+					  <td>&nbsp;Miguel Gallo Cruz&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;40142&nbsp;</td>
+					  <td>&nbsp;Luis Godínez Ortega&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;40177&nbsp;</td>
+					  <td>&nbsp;Sebastián González Valdés&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Humberto Salomon Rangel Torres&nbsp;</td><tr>
+					  <td>&nbsp;41651&nbsp;</td>
+					  <td>&nbsp;Bruno Alvaro Gutiérrez Espinoza&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;40178&nbsp;</td>
+					  <td>&nbsp;Daniel Guzmán De Anda&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;41514&nbsp;</td>
+					  <td>&nbsp;Adrián Rafael Loy Escoto&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Alfredo Mendez Rosales&nbsp;</td><tr>
+					  <td>&nbsp;40168&nbsp;</td>
+					  <td>&nbsp;Juan Francisco Martínez Juárez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;40130&nbsp;</td>
+					  <td>&nbsp;Sebastián Michel Lomelí&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;José Esteban Peralta Arias&nbsp;</td><tr>
+					  <td>&nbsp;40151&nbsp;</td>
+					  <td>&nbsp;Francisco Montes de Oca Goñi&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Fausto Eduardo Mercado Espinoza&nbsp;</td><tr>
+					  <td>&nbsp;40152&nbsp;</td>
+					  <td>&nbsp;Luis Montes de Oca Goñi&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Jesus Israel Castañeda Padilla&nbsp;</td><tr>
+					  <td>&nbsp;40055&nbsp;</td>
+					  <td>&nbsp;Josemaría Moreno Pardo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Humberto Salomon Rangel Torres&nbsp;</td><tr>
+					  <td>&nbsp;40153&nbsp;</td>
+					  <td>&nbsp;Flavio Alonso Morgan Gallardo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;41762&nbsp;</td>
+					  <td>&nbsp;José Pablo Ochoa Arias&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Fausto Eduardo Mercado Espinoza&nbsp;</td><tr>
+					  <td>&nbsp;41494&nbsp;</td>
+					  <td>&nbsp;Rubén Orozco Vázquez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Diego Dominguez Cardenas&nbsp;</td><tr>
+					  <td>&nbsp;40174&nbsp;</td>
+					  <td>&nbsp;Diego Alberto Paniagua Camacho&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Claudio Minakata Urzua&nbsp;</td><tr>
+					  <td>&nbsp;41568&nbsp;</td>
+					  <td>&nbsp;Héctor Daniel Peña González&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;41290&nbsp;</td>
+					  <td>&nbsp;Pedro Manuel Pérez Cruz&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Humberto Salomon Rangel Torres&nbsp;</td><tr>
+					  <td>&nbsp;41123&nbsp;</td>
+					  <td>&nbsp;Álvaro Pérez Palafox&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Raul Zamora Echeverria&nbsp;</td><tr>
+					  <td>&nbsp;40157&nbsp;</td>
+					  <td>&nbsp;Juan Carlos Pérez Rodríguez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Humberto Salomon Rangel Torres&nbsp;</td><tr>
+					  <td>&nbsp;40159&nbsp;</td>
+					  <td>&nbsp;Diego Alejandro Rodríguez Sánchez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;1&nbsp;A</td>
+					  <td>&nbsp;Francisco Fabian Velasco Navarro&nbsp;</td><tr>
+					  <td>&nbsp;40105&nbsp;</td>
+					  <td>&nbsp;Emiliano Amaya Silva&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Jesus Israel Castañeda Padilla&nbsp;</td><tr>
+					  <td>&nbsp;40088&nbsp;</td>
+					  <td>&nbsp;Víctor Rafael Arriaga Meléndrez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Víctor Hugo Sandoval Hernández&nbsp;</td><tr>
+					  <td>&nbsp;41386&nbsp;</td>
+					  <td>&nbsp;Antonio Benjamín Cejudo Orozco&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Jesus Israel Castañeda Padilla&nbsp;</td><tr>
+					  <td>&nbsp;41717&nbsp;</td>
+					  <td>&nbsp;Angel Chao Barragán&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Víctor Hugo Sandoval Hernández&nbsp;</td><tr>
+					  <td>&nbsp;41667&nbsp;</td>
+					  <td>&nbsp;Omar Enrique Cuadras Rivera&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Juan José Elizalde Martinez&nbsp;</td><tr>
+					  <td>&nbsp;40047&nbsp;</td>
+					  <td>&nbsp;Mario Andrés Estrada Echeverría&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;40094&nbsp;</td>
+					  <td>&nbsp;Miguel Alejandro Ferrer González&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Víctor Hugo Sandoval Hernández&nbsp;</td><tr>
+					  <td>&nbsp;41371&nbsp;</td>
+					  <td>&nbsp;Juan Pablo Flores Sahagún&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Víctor Hugo Sandoval Hernández&nbsp;</td><tr>
+					  <td>&nbsp;40076&nbsp;</td>
+					  <td>&nbsp;Sebastián García Ibarrarán&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Víctor Hugo Sandoval Hernández&nbsp;</td><tr>
+					  <td>&nbsp;40049&nbsp;</td>
+					  <td>&nbsp;José Roberto Gómez Velasco&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Fernando Soto Pérez&nbsp;</td><tr>
+					  <td>&nbsp;40050&nbsp;</td>
+					  <td>&nbsp;Rafael Emiliano Guzmán Mestas&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Erick David González Jiménez&nbsp;</td><tr>
+					  <td>&nbsp;40051&nbsp;</td>
+					  <td>&nbsp;Diego Heyser Carrillo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Edgar Hernández Figueroa&nbsp;</td><tr>
+					  <td>&nbsp;41600&nbsp;</td>
+					  <td>&nbsp;Adrián Huerta Fernández&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Víctor Hugo Sandoval Hernández&nbsp;</td><tr>
+					  <td>&nbsp;41519&nbsp;</td>
+					  <td>&nbsp;Guillermo Alejandro Juarez Martínez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41381&nbsp;</td>
+					  <td>&nbsp;Valerio Marchi Angulo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Claudio Minakata Urzua&nbsp;</td><tr>
+					  <td>&nbsp;41683&nbsp;</td>
+					  <td>&nbsp;Hector Fabian Marín Ortíz&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Alejandro Gaona Andalón&nbsp;</td><tr>
+					  <td>&nbsp;40053&nbsp;</td>
+					  <td>&nbsp;Aldo Alejandro Marin Peregrina&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Fernando Amezcua .&nbsp;</td><tr>
+					  <td>&nbsp;40099&nbsp;</td>
+					  <td>&nbsp;Santiago Méndez Márquez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Miguel Ángel Reyes Ayala&nbsp;</td><tr>
+					  <td>&nbsp;40078&nbsp;</td>
+					  <td>&nbsp;Alberto Moya De La Mora&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Edgar Hernández Figueroa&nbsp;</td><tr>
+					  <td>&nbsp;41763&nbsp;</td>
+					  <td>&nbsp;Andrés Ochoa Arias&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Víctor Hugo Sandoval Hernández&nbsp;</td><tr>
+					  <td>&nbsp;41264&nbsp;</td>
+					  <td>&nbsp;Jorge Alejandro Piña Acevedo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Edgar Hernández Figueroa&nbsp;</td><tr>
+					  <td>&nbsp;40079&nbsp;</td>
+					  <td>&nbsp;Marcelo Abraham Preciado Bazavilvazo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Alejandro Gaona Andalón&nbsp;</td><tr>
+					  <td>&nbsp;40067&nbsp;</td>
+					  <td>&nbsp;Ricardo Elías Sáinz Chávez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Pablo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;40068&nbsp;</td>
+					  <td>&nbsp;Santiago Sánchez Zepeda&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Víctor Manuel Cervantes García&nbsp;</td><tr>
+					  <td>&nbsp;40080&nbsp;</td>
+					  <td>&nbsp;Miguel Ángel Solorio Gómez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Alejandro Gaona Andalón&nbsp;</td><tr>
+					  <td>&nbsp;40085&nbsp;</td>
+					  <td>&nbsp;Cristofer Alejandro Torres Haro&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Víctor Hugo Sandoval Hernández&nbsp;</td><tr>
+					  <td>&nbsp;41045&nbsp;</td>
+					  <td>&nbsp;Diego Alonso Velázquez Ramírez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Víctor Manuel Cervantes García&nbsp;</td><tr>
+					  <td>&nbsp;41411&nbsp;</td>
+					  <td>&nbsp;Luis Alejandro Velázquez Toledo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;3&nbsp;A</td>
+					  <td>&nbsp;Jesus Israel Castañeda Padilla&nbsp;</td><tr>
+					  <td>&nbsp;8991&nbsp;</td>
+					  <td>&nbsp;Alejandro Aparicio Meléndez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Jesus Israel Castañeda Padilla&nbsp;</td><tr>
+					  <td>&nbsp;41642&nbsp;</td>
+					  <td>&nbsp;Óscar Alejandro Arenas Plascencia&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Alberto Nieto López&nbsp;</td><tr>
+					  <td>&nbsp;8966&nbsp;</td>
+					  <td>&nbsp;Jorge Miguel Camarena González&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Fernando Amezcua .&nbsp;</td><tr>
+					  <td>&nbsp;8990&nbsp;</td>
+					  <td>&nbsp;Santiago Díaz Jasso&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Humberto Inguanzo .&nbsp;</td><tr>
+					  <td>&nbsp;8946&nbsp;</td>
+					  <td>&nbsp;André Díaz González Guízar&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Jesus Israel Castañeda Padilla&nbsp;</td><tr>
+					  <td>&nbsp;41643&nbsp;</td>
+					  <td>&nbsp;Rafaél Domínguez González&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Víctor Manuel Cervantes García&nbsp;</td><tr>
+					  <td>&nbsp;8969&nbsp;</td>
+					  <td>&nbsp;Andrés Espinosa Muñoz&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Fernando Amezcua .&nbsp;</td><tr>
+					  <td>&nbsp;8967&nbsp;</td>
+					  <td>&nbsp;Juan Pablo Estrada Echeverría&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Rogelio de Jesús Huerta Ibarra&nbsp;</td><tr>
+					  <td>&nbsp;8970&nbsp;</td>
+					  <td>&nbsp;José María Garrido Rivera&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Miguel Ángel Reyes Ayala&nbsp;</td><tr>
+					  <td>&nbsp;8962&nbsp;</td>
+					  <td>&nbsp;Santiago Gómez Delgado&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Claudio Minakata Urzua&nbsp;</td><tr>
+					  <td>&nbsp;8996&nbsp;</td>
+					  <td>&nbsp;Carlos Gómez Murrieta&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Claudio Minakata Urzua&nbsp;</td><tr>
+					  <td>&nbsp;41108&nbsp;</td>
+					  <td>&nbsp;Juan Francisco González Garza&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Pablo Flores Viniegra&nbsp;</td><tr>
+					  <td>&nbsp;41649&nbsp;</td>
+					  <td>&nbsp;Diego David González Villalobos&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Erick David González Jiménez&nbsp;</td><tr>
+					  <td>&nbsp;8958&nbsp;</td>
+					  <td>&nbsp;Rafael Iván Gutiérrez Camacho&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Rogelio de Jesús Huerta Ibarra&nbsp;</td><tr>
+					  <td>&nbsp;40038&nbsp;</td>
+					  <td>&nbsp;Juan Carlos Herrera Novo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Miguel Ángel Reyes Ayala&nbsp;</td><tr>
+					  <td>&nbsp;8968&nbsp;</td>
+					  <td>&nbsp;Darío Heyser Carrillo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Miguel Ángel Reyes Ayala&nbsp;</td><tr>
+					  <td>&nbsp;40003&nbsp;</td>
+					  <td>&nbsp;José David Lyden García&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Alberto Nieto López&nbsp;</td><tr>
+					  <td>&nbsp;8986&nbsp;</td>
+					  <td>&nbsp;Jorge Manzano Reyes&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Claudio Minakata Urzua&nbsp;</td><tr>
+					  <td>&nbsp;41626&nbsp;</td>
+					  <td>&nbsp;Rodrigo Márquez Ojeda&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Erick David González Jiménez&nbsp;</td><tr>
+					  <td>&nbsp;41218&nbsp;</td>
+					  <td>&nbsp;Jorge Alejandro Montaño Rodríguez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Fernando Soto Pérez&nbsp;</td><tr>
+					  <td>&nbsp;41126&nbsp;</td>
+					  <td>&nbsp;Álvaro Moya Gutiérrez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Juan José Elizalde Martinez&nbsp;</td><tr>
+					  <td>&nbsp;40008&nbsp;</td>
+					  <td>&nbsp;Marco Aurelio Navarro Ávila&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Miguel Ángel Reyes Ayala&nbsp;</td><tr>
+					  <td>&nbsp;8961&nbsp;</td>
+					  <td>&nbsp;José Joaquín Ocegueda Zamora&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Fernando Amezcua .&nbsp;</td><tr>
+					  <td>&nbsp;41606&nbsp;</td>
+					  <td>&nbsp;José Daniel Orozco Ramírez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Alberto Nieto López&nbsp;</td><tr>
+					  <td>&nbsp;41124&nbsp;</td>
+					  <td>&nbsp;Pablo Pérez Palafox&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Eduardo Villanueva Rascón&nbsp;</td><tr>
+					  <td>&nbsp;8950&nbsp;</td>
+					  <td>&nbsp;Jesús Sebastián Pérez Pantoja&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Alberto Nieto López&nbsp;</td><tr>
+					  <td>&nbsp;41197&nbsp;</td>
+					  <td>&nbsp;Mauricio Pesquera López&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Alberto Nieto López&nbsp;</td><tr>
+					  <td>&nbsp;41629&nbsp;</td>
+					  <td>&nbsp;Christopher Stefano Rodríguez Anguiano&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Juan José Elizalde Martinez&nbsp;</td><tr>
+					  <td>&nbsp;41729&nbsp;</td>
+					  <td>&nbsp;Andrés Rodríguez González&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Alberto Nieto López&nbsp;</td><tr>
+					  <td>&nbsp;41640&nbsp;</td>
+					  <td>&nbsp;Juan Pablo Salcido Hernández&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Alberto Nieto López&nbsp;</td><tr>
+					  <td>&nbsp;8952&nbsp;</td>
+					  <td>&nbsp;José Salido Romo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Erick David González Jiménez&nbsp;</td><tr>
+					  <td>&nbsp;40004&nbsp;</td>
+					  <td>&nbsp;Sergio Iván Sánchez Carranza&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Carlos Javier Ubidia Montemayor&nbsp;</td><tr>
+					  <td>&nbsp;41106&nbsp;</td>
+					  <td>&nbsp;Luis Fernando Velázquez Bravo&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Miguel Ángel Reyes Ayala&nbsp;</td><tr>
+					  <td>&nbsp;41609&nbsp;</td>
+					  <td>&nbsp;Antonio Vélez Castellanos&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Alejandro Gaona Andalón&nbsp;</td><tr>
+					  <td>&nbsp;40021&nbsp;</td>
+					  <td>&nbsp;Pablo Villanueva Súarez&nbsp;</td>
+					  <td bgcolor='#dfe3ee'>&nbsp;Preparatoria&nbsp;</td>
+					  <td>&nbsp;5&nbsp;A</td>
+					  <td>&nbsp;Humberto Inguanzo .&nbsp;</td><tr><td colspan='5' bgcolor='#004990'><font color='#FFFFFF'><strong>Sin preceptorias:</strong>&nbsp;&nbsp;89&nbsp;</font></td></tr><tr><td>Total sin preceptorias:&nbsp;</td><td>&nbsp;441&nbsp;</td></tr>
+	</table>	</body> 
+	</html>
