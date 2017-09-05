@@ -1,0 +1,42 @@
+*{
+	margin: auto;
+}
+header{
+	background: #ffffff;
+	width:100%;
+    position:absolute;
+    height: auto;
+}
+.logo{
+	width: auto;
+	height: auto;
+}
+img{
+	margin: auto;
+}
+.colegio{
+	background-color: #002b7f !important;
+	margin: auto;
+	width: 100%;
+}
+
+.container{
+	max-width: 50%;
+	margin-top: 100px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	background-color: red;
+	height: auto;
+	  vertical-align: baseline;
+}
+@media screen and (max-width: 599px) {
+	header{
+		width: 100%;
+		background-color: white;
+	}
+	.col-sm-8,.col-sm-3{
+		width: 100%;
+	}
+
+}

@@ -38,6 +38,7 @@ header{
 .colegio{
 	background-color: #002b7f !important;
 	margin: auto;
+	width: auto;
 }
 @media screen and (max-width: 599px) {
 	header{
