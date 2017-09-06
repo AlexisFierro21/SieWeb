@@ -1,42 +1,76 @@
-*{
-	margin: auto;
-}
+
 header{
 	background: #ffffff;
 	width:100%;
-    position:absolute;
-    height: auto;
-}
-.logo{
-	width: auto;
 	height: auto;
-}
-img{
-	margin: auto;
-}
-.colegio{
-	background-color: #002b7f !important;
-	margin: auto;
-	width: 100%;
 }
 
+.colegio{
+	background-color: #002b7f !important;
+	width: 100%;
+	height: auto;
+	position: relative;
+}
+img{
+	display: block;
+	margin:auto;
+}
 .container{
-	max-width: 50%;
-	margin-top: 100px;
+	width: 50%;
+	margin-top: 9%;
+	padding: 0;
+}
+form {
+	display: block;
+    width: 50%;
+    margin: auto;
+    border-style: solid;
+    border-width: 2px;
+    background:#3257BB;
+    padding: 20px;
+    border-radius: 1em;
+
+}
+.form-group{
+	margin-top: 1rem;
+}
+.separador{
+	width: 100%;
+	margin: auto;
+	border-style: dashed;
+	border-width: 1px;
+	border-color: white;
+}
+.abajo{
+	width: 100%;
+	display: block;
+	padding-left: 15%;
+}
+.radio{
 	border-style: solid;
 	border-width: 2px;
-	border-color: black;
-	background-color: red;
-	height: auto;
-	  vertical-align: baseline;
+	font-size: .7em;
+	margin: 2px;
+}
+.btn{
+	display: inline-block;
+	margin: auto;
 }
 @media screen and (max-width: 599px) {
 	header{
 		width: 100%;
 		background-color: white;
 	}
-	.col-sm-8,.col-sm-3{
+	.colegio{
+	width: 100%;
+	}
+	img{
+		width: 100%
+		
+	}
+	.container{
 		width: 100%;
+		margin-top: 20%
 	}
 
 }

@@ -1,16 +1,24 @@
-*{
-	margin: auto;
+header{
+	background: #ffffff;
+	width:100%;
+	position:absolute;
+	height: auto;
 }
-.navbar-ligth{
+#head{
+	width: 100%;
+}
+#head #nombre{
+	float: left;
+	width: 30%;
+}
+#head #colegio{
+	float: left;
+	width: 70%;
+	margin:auto;
 	background-color: #002b7f !important;
-}
-.bg-light{
-background-color: #002b7f !important;
 
 }
-.navbar-brand{
-	color: white !important;
-}
+/*****************************Barra de navegacion***********************************/
 nav{
 	width: 100%;
 	margin: auto;
@@ -19,34 +27,40 @@ nav{
 	border-color: white;
 
 }
+.navbar-ligth{
+	background-color: #002b7f !important;
+}
+.bg-light{
+	background-color: #002b7f !important;
+
+}
+.navbar-brand{
+	color: white !important;
+}
 .container{
 	width: 90%;
 	margin: auto;
 	/*background-color: red;
-*/
-}
-header{
-	background: #ffffff;
-	width:100%;
-    position:absolute;
-    height: auto;
-}
-.logo{
-	width:160px;
-	height: 100%;
-}
-.colegio{
-	background-color: #002b7f !important;
-	margin: auto;
-	width: auto;
+	*/
 }
 @media screen and (max-width: 599px) {
 	header{
 		width: 100%;
 		background-color: white;
 	}
-	.col-sm-8,.col-sm-3{
-		width: 50%;
+	#head{
+		width:100%; 
+	}
+
+	#head #nombre{
+		float: left;
+		width: 100%;
+	}
+	#head #colegio{
+		float: left;
+		width: 100%;
+		margin:auto;
+		background: red;
 	}
 
 }
