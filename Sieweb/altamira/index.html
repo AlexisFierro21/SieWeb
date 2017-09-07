@@ -4,9 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="../css/altamiracss/custom.css">
   <link rel="stylesheet" type="text/css" href="../css/normalize.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/6.6.10/sweetalert2.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/6.6.10/sweetalert2.css">
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
 
@@ -19,23 +21,75 @@
     </div>
   </header>
   <div class="container">
-    Que pedo
-    <form>
+  <p><span>¡Bienvenido!</span></p>
+  <span>Módulo Web del Sistema de Información Escolar</span>
+    <form id="login">
       <div class="form-group">
-        <input type="text" class="form-control" id="user" placeholder="Usuario">
+        <input type="text" class="form-control" id="user" placeholder="Ejm. P5****" required="true">
       </div>
       <div class="separador"></div>
       <div class="form-group">
-        <input type="password" class="form-control" id="pass" placeholder="Contraseña">
+        <input type="password" class="form-control" id="pass" placeholder="Contraseña" required="true">
       </div>
       <div class="form-group abajo">
-      <label class="radio">terminos y condiciones
-          <input type="radio" name="options" id="option2" autocomplete="off"> 
+      <label class="radio">
+      <input type="radio" name="options" id="option2" autocomplete="off">
+      <a href="">terminos y condiciones</a>          
         </label>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <button type="submit" class="btn btn-primary">Inicar Sesion</button>
         
       </div>
+      <p><a  href="#" id="recup">¿No recuerdas tu contraseña?</a></p>
     </form>
   </div>
 </body>
+<script type="text/javascript">
+    $(document).ready(function(){
+      $("#login").submit(function(event){
+        event.preventDefault();
+        var user = $("#user").val();
+        var psas = $("#pass").val();
+        if(user.length<6 || user.length>6)
+        {
+          swal({
+            type:'error',
+            text:'Ingresa solo 6 caracteres'
+          });
+        }else{
+          $.ajax({
+            url:'../controllers/loginprocess.php',
+            data:{
+              'user':user,
+              'pass':pass,
+              colegio:'altamira'
+            },
+            success:function(data){
+              alert(exito);
+            }
+          });
+        }
+
+
+      });
+      $("#recup").click(function(){ 
+        var user = $("#user").val();
+
+        if(user.length!=0){
+          if(user.length=6){
+            alert('al right');
+          }else{
+            swal({
+            type:'error',
+            text:'Ingresa solo 6 caracteres'
+          });
+          }
+        
+        }
+          swal({
+            type:'error',
+            text:'Ingresa tu usuario por favor'
+          });
+      });
+    });
+</script>
 </html>
