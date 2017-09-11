@@ -10,6 +10,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/6.6.10/sweetalert2.min.js"></script>
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/6.6.10/sweetalert2.css">
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
 
   <title>.:titulos:.</title>
@@ -24,12 +25,13 @@
   <p><span>¡Bienvenido!</span></p>
   <span>Módulo Web del Sistema de Información Escolar</span>
     <form id="login">
+      <input type="hidden" name="colegio" value="altamira" id="colegio">
       <div class="form-group">
-        <input type="text" class="form-control" id="user" placeholder="Ejm. P5****" required="true">
+        <input type="text" class="form-control" name="user" id="user" placeholder="Ejm. P5****" required="true">
       </div>
       <div class="separador"></div>
       <div class="form-group">
-        <input type="password" class="form-control" id="pass" placeholder="Contraseña" required="true">
+        <input type="password" class="form-control" name="pass"   id="pass" placeholder="Contraseña" required="true">
       </div>
       <div class="form-group abajo">
       <label class="radio">
@@ -39,14 +41,18 @@
         <button type="submit" class="btn btn-primary">Inicar Sesion</button>
         
       </div>
-      <p><a  href="#" id="recup">¿No recuerdas tu contraseña?</a></p>
-    </form>
+      </form>
+      <form id="form_recuperar" action="recuperar.php" method="POST">
+      <button type="s" id="recup"><a>¿No recuerdas tu contraseña?</a></button>
+      </form>
   </div>
 </body>
 <script type="text/javascript">
     $(document).ready(function(){
       $("#login").submit(function(event){
         event.preventDefault();
+        var form = $(this);
+        var data = new FormData();
         var user = $("#user").val();
         var psas = $("#pass").val();
         if(user.length<6 || user.length>6)
@@ -56,15 +62,22 @@
             text:'Ingresa solo 6 caracteres'
           });
         }else{
-          $.ajax({
-            url:'../controllers/loginprocess.php',
-            data:{
-              'user':user,
-              'pass':pass,
-              colegio:'altamira'
-            },
+          var dataform = form.serializeArray();
+          $.ajax({  
+            type:'post',
+            url:'../controllers/login_process.php',
+            data:dataform,
             success:function(data){
-              alert(exito);
+              if(data.status==true){
+                swal({
+            type:'success',
+            text:'¡Bienvenido a ' + data.name
+          });
+              }
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+          console.log(textStatus);
+          console.log(errorThrown);
             }
           });
         }
@@ -75,20 +88,20 @@
         var user = $("#user").val();
 
         if(user.length!=0){
-          if(user.length=6){
-            alert('al right');
+          if(user.length==6){
+            location.href='recuperar.php';
           }else{
             swal({
             type:'error',
             text:'Ingresa solo 6 caracteres'
           });
           }
-        
-        }
+        }else{
           swal({
             type:'error',
             text:'Ingresa tu usuario por favor'
           });
+        }
       });
     });
 </script>

@@ -28,3 +28,9 @@ include('index.html');
 		display: none;
 	}
 </style>
+<?php
+function hideEmail($email)
+{
+    $parts = explode('@', $email);
+    return substr($parts[0], 0, min(1, strlen($parts[0])-1)) . str_repeat('*', max(1, strlen($parts[0]) - 1)) . '@' . $parts[1];
+}?>
